@@ -14,6 +14,7 @@ gdp_08 = np.array(gdp_08)
 gdp_11 = np.array(gdp_11)
 
 normalizing_value = gdp_11[4]
+
 gdp_08_normalized = [x / normalizing_value for x in gdp_08]
 gdp_11_normalized = [x / normalizing_value for x in gdp_11]
 fraction_gdp_loss = (gdp_08-gdp_11)/gdp_08
@@ -45,7 +46,9 @@ pcurrent = p
 all_failure_indicator = (np.full((1, n), False)).astype(int)
 while True:
     new_failure_indicator = np.array((np.dot(A_matrix, pcurrent).T < v_threshold.T).astype(int)) * ((all_failure_indicator == 0)).astype(int)
+    print (new_failure_indicator,all_failure_indicator)
     all_failure_indicator = all_failure_indicator | new_failure_indicator
+    print (all_failure_indicator)
     pcurrent = pcurrent - new_failure_indicator*v_threshold/2
     new_failed_countries = np.where(all_failure_indicator[0] == 1)[0]
     new_failed_names = header[new_failed_countries[0]]
