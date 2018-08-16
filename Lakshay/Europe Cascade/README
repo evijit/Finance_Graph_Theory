@@ -1,0 +1,4 @@
+Includes code for Europian countries failing based on GDP for a fixed value of theta in multiple waves.
+
+EuropeCascade.py: Contains code for country failure for a fixed value of theta. Failure takes place wave-wise
+Cascade_Networkx.py: Contains code for country failure with graphical representation in networkx. (Figures visible in terminal but not saved as jpgs)
