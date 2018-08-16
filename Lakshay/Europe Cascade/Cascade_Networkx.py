@@ -95,7 +95,7 @@ while (wave == 0) or (len(new_failed_names) != 0):
     new_failed_names = [ countries[i] for i in new_failed_countries]
     all_failed_names = [ countries[i] for i in all_failed_countries ]
     if (len(new_failed_names) != 0):
-      print("Countries failed in wave:",wave)
+      print("Countries failed in wave",wave,":")
       #print(new_failed_names)
       print(all_failed_names)
       print_graph(all_failed_names)
