@@ -81,7 +81,8 @@ gdp_08_normalized = np.matrix(gdp_08_normalized).T
 try:
     theta = float(sys.argv[1])
 except:
-    theta = 0.935
+    theta = 0.9
+    
 v_threshold = theta * (np.dot(A_matrix, gdp_08_normalized))
 pcurrent = p
 wave = 0
