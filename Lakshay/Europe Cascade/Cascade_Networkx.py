@@ -2,6 +2,8 @@ import networkx as nx
 import matplotlib.pyplot as plt 
 import pandas as pd
 import numpy as np
+import sys
+
 
 # Defining country header
 countries = ['France','Germany','Greece','Italy','Portugal','Spain']
@@ -76,7 +78,10 @@ node_size = create_graph()
 p = np.matrix(gdp_11_normalized).T
 gdp_08_normalized = np.matrix(gdp_08_normalized).T
 
-theta = 0.935
+try:
+    theta = float(sys.argv[1])
+except:
+    theta = 0.935
 v_threshold = theta * (np.dot(A_matrix, gdp_08_normalized))
 pcurrent = p
 wave = 0
