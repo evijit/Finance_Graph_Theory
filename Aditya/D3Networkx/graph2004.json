@@ -1,0 +1,5003 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888218,
+            "id": "AUS"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888231,
+            "id": "AUT"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888226,
+            "id": "BEL"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888254,
+            "id": "BGR"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888823,
+            "id": "BRA"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888226,
+            "id": "CAN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888215,
+            "id": "CHE"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888822,
+            "id": "CHN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888223,
+            "id": "CYP"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888176,
+            "id": "CZE"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888818,
+            "id": "DEU"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888818,
+            "id": "DNK"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888818,
+            "id": "ESP"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888176,
+            "id": "EST"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888173,
+            "id": "FIN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888176,
+            "id": "FRA"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888181,
+            "id": "GBR"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888165,
+            "id": "GRC"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888162,
+            "id": "HRV"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888154,
+            "id": "HUN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888173,
+            "id": "IDN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888817,
+            "id": "IND"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888187,
+            "id": "IRL"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888168,
+            "id": "ITA"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888156,
+            "id": "JPN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888148,
+            "id": "KOR"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888156,
+            "id": "LTU"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888154,
+            "id": "LUX"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888154,
+            "id": "LVA"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888156,
+            "id": "MEX"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888816,
+            "id": "MLT"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888162,
+            "id": "NLD"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888168,
+            "id": "NOR"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888168,
+            "id": "POL"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888165,
+            "id": "PRT"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888165,
+            "id": "ROU"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888173,
+            "id": "RUS"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888817,
+            "id": "SVK"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888181,
+            "id": "SVN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888816,
+            "id": "SWE"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888162,
+            "id": "TUR"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888165,
+            "id": "TWN"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.1507556722888816,
+            "id": "USA"
+        },
+        {
+            "degree": 43,
+            "parity": 0,
+            "katz": 0.15075567228888184,
+            "id": "ROW"
+        }
+    ],
+    "links": [
+        {
+            "weight": 76.67842161251492,
+            "source": "AUS",
+            "target": "AUT"
+        },
+        {
+            "weight": 355.1105028421273,
+            "source": "AUS",
+            "target": "BEL"
+        },
+        {
+            "weight": 68.87314649655362,
+            "source": "AUS",
+            "target": "BGR"
+        },
+        {
+            "weight": 439.03893167430346,
+            "source": "AUS",
+            "target": "BRA"
+        },
+        {
+            "weight": 1585.7316716980538,
+            "source": "AUS",
+            "target": "CAN"
+        },
+        {
+            "weight": 256.770634940034,
+            "source": "AUS",
+            "target": "CHE"
+        },
+        {
+            "weight": 10582.91581712341,
+            "source": "AUS",
+            "target": "CHN"
+        },
+        {
+            "weight": 6.8351738280174805,
+            "source": "AUS",
+            "target": "CYP"
+        },
+        {
+            "weight": 84.39907699151989,
+            "source": "AUS",
+            "target": "CZE"
+        },
+        {
+            "weight": 1162.5028333292266,
+            "source": "AUS",
+            "target": "DEU"
+        },
+        {
+            "weight": 531.9876053017497,
+            "source": "AUS",
+            "target": "DNK"
+        },
+        {
+            "weight": 502.6475669901375,
+            "source": "AUS",
+            "target": "ESP"
+        },
+        {
+            "weight": 0.966837111323734,
+            "source": "AUS",
+            "target": "EST"
+        },
+        {
+            "weight": 362.3255914132826,
+            "source": "AUS",
+            "target": "FIN"
+        },
+        {
+            "weight": 994.951818256942,
+            "source": "AUS",
+            "target": "FRA"
+        },
+        {
+            "weight": 2759.650180974009,
+            "source": "AUS",
+            "target": "GBR"
+        },
+        {
+            "weight": 108.69853619373795,
+            "source": "AUS",
+            "target": "GRC"
+        },
+        {
+            "weight": 7.466608264595936,
+            "source": "AUS",
+            "target": "HRV"
+        },
+        {
+            "weight": 18.841355047564573,
+            "source": "AUS",
+            "target": "HUN"
+        },
+        {
+            "weight": 3109.3644410098054,
+            "source": "AUS",
+            "target": "IDN"
+        },
+        {
+            "weight": 7586.555851027722,
+            "source": "AUS",
+            "target": "IND"
+        },
+        {
+            "weight": 199.5216094681329,
+            "source": "AUS",
+            "target": "IRL"
+        },
+        {
+            "weight": 1495.9337129837445,
+            "source": "AUS",
+            "target": "ITA"
+        },
+        {
+            "weight": 17078.36475760039,
+            "source": "AUS",
+            "target": "JPN"
+        },
+        {
+            "weight": 6806.278457494846,
+            "source": "AUS",
+            "target": "KOR"
+        },
+        {
+            "weight": 2.346650773134403,
+            "source": "AUS",
+            "target": "LTU"
+        },
+        {
+            "weight": 11.406584425790589,
+            "source": "AUS",
+            "target": "LUX"
+        },
+        {
+            "weight": 2.4509793735104317,
+            "source": "AUS",
+            "target": "LVA"
+        },
+        {
+            "weight": 411.7408383014061,
+            "source": "AUS",
+            "target": "MEX"
+        },
+        {
+            "weight": 42.74206472104503,
+            "source": "AUS",
+            "target": "MLT"
+        },
+        {
+            "weight": 801.952556310838,
+            "source": "AUS",
+            "target": "NLD"
+        },
+        {
+            "weight": 95.01357351623592,
+            "source": "AUS",
+            "target": "NOR"
+        },
+        {
+            "weight": 34.21380999344647,
+            "source": "AUS",
+            "target": "POL"
+        },
+        {
+            "weight": 15.485286593242405,
+            "source": "AUS",
+            "target": "PRT"
+        },
+        {
+            "weight": 30.741236652134734,
+            "source": "AUS",
+            "target": "ROU"
+        },
+        {
+            "weight": 111.78457781527956,
+            "source": "AUS",
+            "target": "RUS"
+        },
+        {
+            "weight": 12.434799813402135,
+            "source": "AUS",
+            "target": "SVK"
+        },
+        {
+            "weight": 20.65485220942689,
+            "source": "AUS",
+            "target": "SVN"
+        },
+        {
+            "weight": 229.8520673277936,
+            "source": "AUS",
+            "target": "SWE"
+        },
+        {
+            "weight": 310.38317972905134,
+            "source": "AUS",
+            "target": "TUR"
+        },
+        {
+            "weight": 3535.9063027496068,
+            "source": "AUS",
+            "target": "TWN"
+        },
+        {
+            "weight": 4071.3945281939,
+            "source": "AUS",
+            "target": "USA"
+        },
+        {
+            "weight": 26197.233375321583,
+            "source": "AUS",
+            "target": "ROW"
+        },
+        {
+            "weight": 1300.7932090842219,
+            "source": "AUT",
+            "target": "BEL"
+        },
+        {
+            "weight": 191.20912349918166,
+            "source": "AUT",
+            "target": "BGR"
+        },
+        {
+            "weight": 260.85971772399483,
+            "source": "AUT",
+            "target": "BRA"
+        },
+        {
+            "weight": 712.2953796483041,
+            "source": "AUT",
+            "target": "CAN"
+        },
+        {
+            "weight": 3437.487102280174,
+            "source": "AUT",
+            "target": "CHE"
+        },
+        {
+            "weight": 762.8531177345204,
+            "source": "AUT",
+            "target": "CHN"
+        },
+        {
+            "weight": 153.04178124197995,
+            "source": "AUT",
+            "target": "CYP"
+        },
+        {
+            "weight": 2133.5763122311228,
+            "source": "AUT",
+            "target": "CZE"
+        },
+        {
+            "weight": 21406.13961267604,
+            "source": "AUT",
+            "target": "DEU"
+        },
+        {
+            "weight": 440.4604844516409,
+            "source": "AUT",
+            "target": "DNK"
+        },
+        {
+            "weight": 1456.35831320048,
+            "source": "AUT",
+            "target": "ESP"
+        },
+        {
+            "weight": 39.87304920774283,
+            "source": "AUT",
+            "target": "EST"
+        },
+        {
+            "weight": 396.6387903403736,
+            "source": "AUT",
+            "target": "FIN"
+        },
+        {
+            "weight": 2852.060842881585,
+            "source": "AUT",
+            "target": "FRA"
+        },
+        {
+            "weight": 2984.1847363105467,
+            "source": "AUT",
+            "target": "GBR"
+        },
+        {
+            "weight": 240.7824362118916,
+            "source": "AUT",
+            "target": "GRC"
+        },
+        {
+            "weight": 903.6593774224176,
+            "source": "AUT",
+            "target": "HRV"
+        },
+        {
+            "weight": 3449.7878853180146,
+            "source": "AUT",
+            "target": "HUN"
+        },
+        {
+            "weight": 84.93224105606159,
+            "source": "AUT",
+            "target": "IDN"
+        },
+        {
+            "weight": 672.262406445278,
+            "source": "AUT",
+            "target": "IND"
+        },
+        {
+            "weight": 344.93974304606536,
+            "source": "AUT",
+            "target": "IRL"
+        },
+        {
+            "weight": 6012.969636638667,
+            "source": "AUT",
+            "target": "ITA"
+        },
+        {
+            "weight": 783.8303690076661,
+            "source": "AUT",
+            "target": "JPN"
+        },
+        {
+            "weight": 307.92471249946715,
+            "source": "AUT",
+            "target": "KOR"
+        },
+        {
+            "weight": 38.659016805070245,
+            "source": "AUT",
+            "target": "LTU"
+        },
+        {
+            "weight": 158.31050239651432,
+            "source": "AUT",
+            "target": "LUX"
+        },
+        {
+            "weight": 57.941122333487165,
+            "source": "AUT",
+            "target": "LVA"
+        },
+        {
+            "weight": 289.89965778046593,
+            "source": "AUT",
+            "target": "MEX"
+        },
+        {
+            "weight": 75.39153205278156,
+            "source": "AUT",
+            "target": "MLT"
+        },
+        {
+            "weight": 1493.263831667262,
+            "source": "AUT",
+            "target": "NLD"
+        },
+        {
+            "weight": 377.95392199935867,
+            "source": "AUT",
+            "target": "NOR"
+        },
+        {
+            "weight": 1658.4934649466181,
+            "source": "AUT",
+            "target": "POL"
+        },
+        {
+            "weight": 227.44137058541057,
+            "source": "AUT",
+            "target": "PRT"
+        },
+        {
+            "weight": 747.4841113331328,
+            "source": "AUT",
+            "target": "ROU"
+        },
+        {
+            "weight": 798.7684002244519,
+            "source": "AUT",
+            "target": "RUS"
+        },
+        {
+            "weight": 1024.1188402108503,
+            "source": "AUT",
+            "target": "SVK"
+        },
+        {
+            "weight": 1088.7419767702934,
+            "source": "AUT",
+            "target": "SVN"
+        },
+        {
+            "weight": 1021.3732422644141,
+            "source": "AUT",
+            "target": "SWE"
+        },
+        {
+            "weight": 611.6070904324849,
+            "source": "AUT",
+            "target": "TUR"
+        },
+        {
+            "weight": 173.80628643168856,
+            "source": "AUT",
+            "target": "TWN"
+        },
+        {
+            "weight": 2669.6263239847044,
+            "source": "AUT",
+            "target": "USA"
+        },
+        {
+            "weight": 7340.720904309442,
+            "source": "AUT",
+            "target": "ROW"
+        },
+        {
+            "weight": 104.9796193304943,
+            "source": "BEL",
+            "target": "BGR"
+        },
+        {
+            "weight": 572.1972882923868,
+            "source": "BEL",
+            "target": "BRA"
+        },
+        {
+            "weight": 676.6743513651958,
+            "source": "BEL",
+            "target": "CAN"
+        },
+        {
+            "weight": 2775.475303465149,
+            "source": "BEL",
+            "target": "CHE"
+        },
+        {
+            "weight": 1626.5793105796631,
+            "source": "BEL",
+            "target": "CHN"
+        },
+        {
+            "weight": 75.3507860834806,
+            "source": "BEL",
+            "target": "CYP"
+        },
+        {
+            "weight": 811.8266569467925,
+            "source": "BEL",
+            "target": "CZE"
+        },
+        {
+            "weight": 26150.38320219121,
+            "source": "BEL",
+            "target": "DEU"
+        },
+        {
+            "weight": 2476.4808681934383,
+            "source": "BEL",
+            "target": "DNK"
+        },
+        {
+            "weight": 4317.433133107895,
+            "source": "BEL",
+            "target": "ESP"
+        },
+        {
+            "weight": 79.0001825482439,
+            "source": "BEL",
+            "target": "EST"
+        },
+        {
+            "weight": 977.0765105733653,
+            "source": "BEL",
+            "target": "FIN"
+        },
+        {
+            "weight": 23459.368426689747,
+            "source": "BEL",
+            "target": "FRA"
+        },
+        {
+            "weight": 10759.08875789845,
+            "source": "BEL",
+            "target": "GBR"
+        },
+        {
+            "weight": 854.2912811392047,
+            "source": "BEL",
+            "target": "GRC"
+        },
+        {
+            "weight": 140.41690191283,
+            "source": "BEL",
+            "target": "HRV"
+        },
+        {
+            "weight": 627.5939795567817,
+            "source": "BEL",
+            "target": "HUN"
+        },
+        {
+            "weight": 186.49693235619438,
+            "source": "BEL",
+            "target": "IDN"
+        },
+        {
+            "weight": 1264.0265971335282,
+            "source": "BEL",
+            "target": "IND"
+        },
+        {
+            "weight": 2486.463509948514,
+            "source": "BEL",
+            "target": "IRL"
+        },
+        {
+            "weight": 7350.257515087725,
+            "source": "BEL",
+            "target": "ITA"
+        },
+        {
+            "weight": 1431.3802747743464,
+            "source": "BEL",
+            "target": "JPN"
+        },
+        {
+            "weight": 639.89626879431,
+            "source": "BEL",
+            "target": "KOR"
+        },
+        {
+            "weight": 78.83513953780208,
+            "source": "BEL",
+            "target": "LTU"
+        },
+        {
+            "weight": 3672.6176202217853,
+            "source": "BEL",
+            "target": "LUX"
+        },
+        {
+            "weight": 49.72983504468029,
+            "source": "BEL",
+            "target": "LVA"
+        },
+        {
+            "weight": 508.6871977266828,
+            "source": "BEL",
+            "target": "MEX"
+        },
+        {
+            "weight": 89.84866323806325,
+            "source": "BEL",
+            "target": "MLT"
+        },
+        {
+            "weight": 13212.908413937073,
+            "source": "BEL",
+            "target": "NLD"
+        },
+        {
+            "weight": 1015.3062998096117,
+            "source": "BEL",
+            "target": "NOR"
+        },
+        {
+            "weight": 1436.9451799061649,
+            "source": "BEL",
+            "target": "POL"
+        },
+        {
+            "weight": 847.7938016654819,
+            "source": "BEL",
+            "target": "PRT"
+        },
+        {
+            "weight": 257.47245895074474,
+            "source": "BEL",
+            "target": "ROU"
+        },
+        {
+            "weight": 957.879179366274,
+            "source": "BEL",
+            "target": "RUS"
+        },
+        {
+            "weight": 242.02384574185237,
+            "source": "BEL",
+            "target": "SVK"
+        },
+        {
+            "weight": 127.34843484897895,
+            "source": "BEL",
+            "target": "SVN"
+        },
+        {
+            "weight": 2404.845983455463,
+            "source": "BEL",
+            "target": "SWE"
+        },
+        {
+            "weight": 1533.7823760220724,
+            "source": "BEL",
+            "target": "TUR"
+        },
+        {
+            "weight": 375.20707407361806,
+            "source": "BEL",
+            "target": "TWN"
+        },
+        {
+            "weight": 7063.980497066479,
+            "source": "BEL",
+            "target": "USA"
+        },
+        {
+            "weight": 13772.119141124589,
+            "source": "BEL",
+            "target": "ROW"
+        },
+        {
+            "weight": 24.51793715373558,
+            "source": "BGR",
+            "target": "BRA"
+        },
+        {
+            "weight": 22.41676185987053,
+            "source": "BGR",
+            "target": "CAN"
+        },
+        {
+            "weight": 14.969269707539453,
+            "source": "BGR",
+            "target": "CHE"
+        },
+        {
+            "weight": 44.92765820442221,
+            "source": "BGR",
+            "target": "CHN"
+        },
+        {
+            "weight": 13.735716815899188,
+            "source": "BGR",
+            "target": "CYP"
+        },
+        {
+            "weight": 36.667675845389994,
+            "source": "BGR",
+            "target": "CZE"
+        },
+        {
+            "weight": 361.18586539139375,
+            "source": "BGR",
+            "target": "DEU"
+        },
+        {
+            "weight": 21.97384324345635,
+            "source": "BGR",
+            "target": "DNK"
+        },
+        {
+            "weight": 151.13926435305055,
+            "source": "BGR",
+            "target": "ESP"
+        },
+        {
+            "weight": 5.490545996207144,
+            "source": "BGR",
+            "target": "EST"
+        },
+        {
+            "weight": 7.350212768336444,
+            "source": "BGR",
+            "target": "FIN"
+        },
+        {
+            "weight": 113.00628124334813,
+            "source": "BGR",
+            "target": "FRA"
+        },
+        {
+            "weight": 146.69785178356938,
+            "source": "BGR",
+            "target": "GBR"
+        },
+        {
+            "weight": 277.70727863356893,
+            "source": "BGR",
+            "target": "GRC"
+        },
+        {
+            "weight": 35.89444995089019,
+            "source": "BGR",
+            "target": "HRV"
+        },
+        {
+            "weight": 43.495105340408955,
+            "source": "BGR",
+            "target": "HUN"
+        },
+        {
+            "weight": 10.189263470428033,
+            "source": "BGR",
+            "target": "IDN"
+        },
+        {
+            "weight": 10.331869349039057,
+            "source": "BGR",
+            "target": "IND"
+        },
+        {
+            "weight": 10.355684269100358,
+            "source": "BGR",
+            "target": "IRL"
+        },
+        {
+            "weight": 455.1250824097332,
+            "source": "BGR",
+            "target": "ITA"
+        },
+        {
+            "weight": 3.8344155189386617,
+            "source": "BGR",
+            "target": "JPN"
+        },
+        {
+            "weight": 5.688167189930887,
+            "source": "BGR",
+            "target": "KOR"
+        },
+        {
+            "weight": 3.1738887964256843,
+            "source": "BGR",
+            "target": "LTU"
+        },
+        {
+            "weight": 7.985574982753249,
+            "source": "BGR",
+            "target": "LUX"
+        },
+        {
+            "weight": 4.7382389253341115,
+            "source": "BGR",
+            "target": "LVA"
+        },
+        {
+            "weight": 10.421749770045988,
+            "source": "BGR",
+            "target": "MEX"
+        },
+        {
+            "weight": 10.655134608699608,
+            "source": "BGR",
+            "target": "MLT"
+        },
+        {
+            "weight": 44.085328910536134,
+            "source": "BGR",
+            "target": "NLD"
+        },
+        {
+            "weight": 10.613292684413574,
+            "source": "BGR",
+            "target": "NOR"
+        },
+        {
+            "weight": 45.013934680603505,
+            "source": "BGR",
+            "target": "POL"
+        },
+        {
+            "weight": 8.954636607255908,
+            "source": "BGR",
+            "target": "PRT"
+        },
+        {
+            "weight": 167.75260296542518,
+            "source": "BGR",
+            "target": "ROU"
+        },
+        {
+            "weight": 67.75214112556944,
+            "source": "BGR",
+            "target": "RUS"
+        },
+        {
+            "weight": 12.017418892783711,
+            "source": "BGR",
+            "target": "SVK"
+        },
+        {
+            "weight": 15.14929210340217,
+            "source": "BGR",
+            "target": "SVN"
+        },
+        {
+            "weight": 24.621054713874504,
+            "source": "BGR",
+            "target": "SWE"
+        },
+        {
+            "weight": 580.7760662469235,
+            "source": "BGR",
+            "target": "TUR"
+        },
+        {
+            "weight": 4.868485906629658,
+            "source": "BGR",
+            "target": "TWN"
+        },
+        {
+            "weight": 173.9458441527382,
+            "source": "BGR",
+            "target": "USA"
+        },
+        {
+            "weight": 1313.5371037487628,
+            "source": "BGR",
+            "target": "ROW"
+        },
+        {
+            "weight": 1427.6218431688822,
+            "source": "BRA",
+            "target": "CAN"
+        },
+        {
+            "weight": 225.47721852164884,
+            "source": "BRA",
+            "target": "CHE"
+        },
+        {
+            "weight": 5867.609203181622,
+            "source": "BRA",
+            "target": "CHN"
+        },
+        {
+            "weight": 49.28701066946636,
+            "source": "BRA",
+            "target": "CYP"
+        },
+        {
+            "weight": 44.57681524216657,
+            "source": "BRA",
+            "target": "CZE"
+        },
+        {
+            "weight": 2751.3402912411784,
+            "source": "BRA",
+            "target": "DEU"
+        },
+        {
+            "weight": 278.335582109271,
+            "source": "BRA",
+            "target": "DNK"
+        },
+        {
+            "weight": 1555.2537983429845,
+            "source": "BRA",
+            "target": "ESP"
+        },
+        {
+            "weight": 12.971007936696198,
+            "source": "BRA",
+            "target": "EST"
+        },
+        {
+            "weight": 214.24136647255668,
+            "source": "BRA",
+            "target": "FIN"
+        },
+        {
+            "weight": 2348.136916796517,
+            "source": "BRA",
+            "target": "FRA"
+        },
+        {
+            "weight": 1784.3360926767646,
+            "source": "BRA",
+            "target": "GBR"
+        },
+        {
+            "weight": 150.7512665112321,
+            "source": "BRA",
+            "target": "GRC"
+        },
+        {
+            "weight": 77.63369300973567,
+            "source": "BRA",
+            "target": "HRV"
+        },
+        {
+            "weight": 35.964199995043494,
+            "source": "BRA",
+            "target": "HUN"
+        },
+        {
+            "weight": 555.8861400067207,
+            "source": "BRA",
+            "target": "IDN"
+        },
+        {
+            "weight": 1503.8571222285102,
+            "source": "BRA",
+            "target": "IND"
+        },
+        {
+            "weight": 170.24829081188247,
+            "source": "BRA",
+            "target": "IRL"
+        },
+        {
+            "weight": 2413.666144944827,
+            "source": "BRA",
+            "target": "ITA"
+        },
+        {
+            "weight": 2606.374333522601,
+            "source": "BRA",
+            "target": "JPN"
+        },
+        {
+            "weight": 1732.8477735695185,
+            "source": "BRA",
+            "target": "KOR"
+        },
+        {
+            "weight": 7.274623122107206,
+            "source": "BRA",
+            "target": "LTU"
+        },
+        {
+            "weight": 10.318107291837032,
+            "source": "BRA",
+            "target": "LUX"
+        },
+        {
+            "weight": 2.880016125816661,
+            "source": "BRA",
+            "target": "LVA"
+        },
+        {
+            "weight": 2869.5677180760767,
+            "source": "BRA",
+            "target": "MEX"
+        },
+        {
+            "weight": 57.25848282111372,
+            "source": "BRA",
+            "target": "MLT"
+        },
+        {
+            "weight": 2993.475505988299,
+            "source": "BRA",
+            "target": "NLD"
+        },
+        {
+            "weight": 396.735275365592,
+            "source": "BRA",
+            "target": "NOR"
+        },
+        {
+            "weight": 155.39313267913724,
+            "source": "BRA",
+            "target": "POL"
+        },
+        {
+            "weight": 966.1569217649414,
+            "source": "BRA",
+            "target": "PRT"
+        },
+        {
+            "weight": 423.60064432443664,
+            "source": "BRA",
+            "target": "ROU"
+        },
+        {
+            "weight": 820.3714682209311,
+            "source": "BRA",
+            "target": "RUS"
+        },
+        {
+            "weight": 15.584323006451301,
+            "source": "BRA",
+            "target": "SVK"
+        },
+        {
+            "weight": 138.02437799780458,
+            "source": "BRA",
+            "target": "SVN"
+        },
+        {
+            "weight": 326.3020684617628,
+            "source": "BRA",
+            "target": "SWE"
+        },
+        {
+            "weight": 437.7920748696119,
+            "source": "BRA",
+            "target": "TUR"
+        },
+        {
+            "weight": 1049.3769249681902,
+            "source": "BRA",
+            "target": "TWN"
+        },
+        {
+            "weight": 14171.39277051672,
+            "source": "BRA",
+            "target": "USA"
+        },
+        {
+            "weight": 19249.5479106708,
+            "source": "BRA",
+            "target": "ROW"
+        },
+        {
+            "weight": 494.227558747765,
+            "source": "CAN",
+            "target": "CHE"
+        },
+        {
+            "weight": 3804.2505486270784,
+            "source": "CAN",
+            "target": "CHN"
+        },
+        {
+            "weight": 19.783544155929974,
+            "source": "CAN",
+            "target": "CYP"
+        },
+        {
+            "weight": 98.01258407099192,
+            "source": "CAN",
+            "target": "CZE"
+        },
+        {
+            "weight": 2941.9812028846227,
+            "source": "CAN",
+            "target": "DEU"
+        },
+        {
+            "weight": 297.28891875587885,
+            "source": "CAN",
+            "target": "DNK"
+        },
+        {
+            "weight": 2071.6560647256274,
+            "source": "CAN",
+            "target": "ESP"
+        },
+        {
+            "weight": 5.503890517962309,
+            "source": "CAN",
+            "target": "EST"
+        },
+        {
+            "weight": 217.75085560961207,
+            "source": "CAN",
+            "target": "FIN"
+        },
+        {
+            "weight": 1929.465745512652,
+            "source": "CAN",
+            "target": "FRA"
+        },
+        {
+            "weight": 8203.464632981259,
+            "source": "CAN",
+            "target": "GBR"
+        },
+        {
+            "weight": 229.16205862775692,
+            "source": "CAN",
+            "target": "GRC"
+        },
+        {
+            "weight": 33.724447532391025,
+            "source": "CAN",
+            "target": "HRV"
+        },
+        {
+            "weight": 128.31189011383836,
+            "source": "CAN",
+            "target": "HUN"
+        },
+        {
+            "weight": 415.6038981433203,
+            "source": "CAN",
+            "target": "IDN"
+        },
+        {
+            "weight": 518.54695570949,
+            "source": "CAN",
+            "target": "IND"
+        },
+        {
+            "weight": 609.2430182217137,
+            "source": "CAN",
+            "target": "IRL"
+        },
+        {
+            "weight": 1085.7224581479215,
+            "source": "CAN",
+            "target": "ITA"
+        },
+        {
+            "weight": 8601.463455086103,
+            "source": "CAN",
+            "target": "JPN"
+        },
+        {
+            "weight": 1617.8584673255964,
+            "source": "CAN",
+            "target": "KOR"
+        },
+        {
+            "weight": 8.9920879660249,
+            "source": "CAN",
+            "target": "LTU"
+        },
+        {
+            "weight": 28.05866536309445,
+            "source": "CAN",
+            "target": "LUX"
+        },
+        {
+            "weight": 14.887243547008193,
+            "source": "CAN",
+            "target": "LVA"
+        },
+        {
+            "weight": 2839.013517114205,
+            "source": "CAN",
+            "target": "MEX"
+        },
+        {
+            "weight": 34.62584803760649,
+            "source": "CAN",
+            "target": "MLT"
+        },
+        {
+            "weight": 805.5678199810883,
+            "source": "CAN",
+            "target": "NLD"
+        },
+        {
+            "weight": 1093.6291769057052,
+            "source": "CAN",
+            "target": "NOR"
+        },
+        {
+            "weight": 269.52293801880955,
+            "source": "CAN",
+            "target": "POL"
+        },
+        {
+            "weight": 67.06924780788752,
+            "source": "CAN",
+            "target": "PRT"
+        },
+        {
+            "weight": 64.9488488913079,
+            "source": "CAN",
+            "target": "ROU"
+        },
+        {
+            "weight": 229.02386241961426,
+            "source": "CAN",
+            "target": "RUS"
+        },
+        {
+            "weight": 12.148587485183851,
+            "source": "CAN",
+            "target": "SVK"
+        },
+        {
+            "weight": 36.52324553303009,
+            "source": "CAN",
+            "target": "SVN"
+        },
+        {
+            "weight": 620.821920871289,
+            "source": "CAN",
+            "target": "SWE"
+        },
+        {
+            "weight": 264.0530813698104,
+            "source": "CAN",
+            "target": "TUR"
+        },
+        {
+            "weight": 1041.595905626578,
+            "source": "CAN",
+            "target": "TWN"
+        },
+        {
+            "weight": 165538.26585060955,
+            "source": "CAN",
+            "target": "USA"
+        },
+        {
+            "weight": 25995.354353825638,
+            "source": "CAN",
+            "target": "ROW"
+        },
+        {
+            "weight": 1045.6658661043803,
+            "source": "CHE",
+            "target": "CHN"
+        },
+        {
+            "weight": 88.42975246441056,
+            "source": "CHE",
+            "target": "CYP"
+        },
+        {
+            "weight": 594.8117974966377,
+            "source": "CHE",
+            "target": "CZE"
+        },
+        {
+            "weight": 18428.039791813168,
+            "source": "CHE",
+            "target": "DEU"
+        },
+        {
+            "weight": 743.2853360288103,
+            "source": "CHE",
+            "target": "DNK"
+        },
+        {
+            "weight": 3611.6149818566414,
+            "source": "CHE",
+            "target": "ESP"
+        },
+        {
+            "weight": 28.279068805310768,
+            "source": "CHE",
+            "target": "EST"
+        },
+        {
+            "weight": 365.633982467892,
+            "source": "CHE",
+            "target": "FIN"
+        },
+        {
+            "weight": 6687.580630541985,
+            "source": "CHE",
+            "target": "FRA"
+        },
+        {
+            "weight": 6274.078513889826,
+            "source": "CHE",
+            "target": "GBR"
+        },
+        {
+            "weight": 659.1353027478601,
+            "source": "CHE",
+            "target": "GRC"
+        },
+        {
+            "weight": 175.40587667355203,
+            "source": "CHE",
+            "target": "HRV"
+        },
+        {
+            "weight": 465.6532268463086,
+            "source": "CHE",
+            "target": "HUN"
+        },
+        {
+            "weight": 171.41011030991183,
+            "source": "CHE",
+            "target": "IDN"
+        },
+        {
+            "weight": 443.2996030207755,
+            "source": "CHE",
+            "target": "IND"
+        },
+        {
+            "weight": 1415.7976494841064,
+            "source": "CHE",
+            "target": "IRL"
+        },
+        {
+            "weight": 6299.929339428018,
+            "source": "CHE",
+            "target": "ITA"
+        },
+        {
+            "weight": 3062.6874346346467,
+            "source": "CHE",
+            "target": "JPN"
+        },
+        {
+            "weight": 723.6172621894606,
+            "source": "CHE",
+            "target": "KOR"
+        },
+        {
+            "weight": 55.62118611233223,
+            "source": "CHE",
+            "target": "LTU"
+        },
+        {
+            "weight": 2073.9225094932326,
+            "source": "CHE",
+            "target": "LUX"
+        },
+        {
+            "weight": 63.20763756042737,
+            "source": "CHE",
+            "target": "LVA"
+        },
+        {
+            "weight": 486.8074577293653,
+            "source": "CHE",
+            "target": "MEX"
+        },
+        {
+            "weight": 32.73309857490856,
+            "source": "CHE",
+            "target": "MLT"
+        },
+        {
+            "weight": 2477.535759006348,
+            "source": "CHE",
+            "target": "NLD"
+        },
+        {
+            "weight": 327.690628562235,
+            "source": "CHE",
+            "target": "NOR"
+        },
+        {
+            "weight": 636.2078131112787,
+            "source": "CHE",
+            "target": "POL"
+        },
+        {
+            "weight": 505.86689175778304,
+            "source": "CHE",
+            "target": "PRT"
+        },
+        {
+            "weight": 168.8382172503565,
+            "source": "CHE",
+            "target": "ROU"
+        },
+        {
+            "weight": 354.4777360471845,
+            "source": "CHE",
+            "target": "RUS"
+        },
+        {
+            "weight": 156.39293656651157,
+            "source": "CHE",
+            "target": "SVK"
+        },
+        {
+            "weight": 111.43886441973166,
+            "source": "CHE",
+            "target": "SVN"
+        },
+        {
+            "weight": 1132.50620433954,
+            "source": "CHE",
+            "target": "SWE"
+        },
+        {
+            "weight": 1358.5922910659774,
+            "source": "CHE",
+            "target": "TUR"
+        },
+        {
+            "weight": 502.858816196281,
+            "source": "CHE",
+            "target": "TWN"
+        },
+        {
+            "weight": 7632.200145107627,
+            "source": "CHE",
+            "target": "USA"
+        },
+        {
+            "weight": 24866.732074001156,
+            "source": "CHE",
+            "target": "ROW"
+        },
+        {
+            "weight": 68.66242376150008,
+            "source": "CHN",
+            "target": "CYP"
+        },
+        {
+            "weight": 752.3977110148619,
+            "source": "CHN",
+            "target": "CZE"
+        },
+        {
+            "weight": 9967.44793409204,
+            "source": "CHN",
+            "target": "DEU"
+        },
+        {
+            "weight": 1237.6679408015993,
+            "source": "CHN",
+            "target": "DNK"
+        },
+        {
+            "weight": 2178.314147872861,
+            "source": "CHN",
+            "target": "ESP"
+        },
+        {
+            "weight": 58.95724016097472,
+            "source": "CHN",
+            "target": "EST"
+        },
+        {
+            "weight": 909.231453471274,
+            "source": "CHN",
+            "target": "FIN"
+        },
+        {
+            "weight": 6418.039154141698,
+            "source": "CHN",
+            "target": "FRA"
+        },
+        {
+            "weight": 6217.588461576867,
+            "source": "CHN",
+            "target": "GBR"
+        },
+        {
+            "weight": 352.8530797458441,
+            "source": "CHN",
+            "target": "GRC"
+        },
+        {
+            "weight": 67.56235432452367,
+            "source": "CHN",
+            "target": "HRV"
+        },
+        {
+            "weight": 1474.3298073322494,
+            "source": "CHN",
+            "target": "HUN"
+        },
+        {
+            "weight": 3765.26749588225,
+            "source": "CHN",
+            "target": "IDN"
+        },
+        {
+            "weight": 4935.373317014256,
+            "source": "CHN",
+            "target": "IND"
+        },
+        {
+            "weight": 1477.9632859249746,
+            "source": "CHN",
+            "target": "IRL"
+        },
+        {
+            "weight": 4019.29956561606,
+            "source": "CHN",
+            "target": "ITA"
+        },
+        {
+            "weight": 30804.301787112614,
+            "source": "CHN",
+            "target": "JPN"
+        },
+        {
+            "weight": 17059.875625146142,
+            "source": "CHN",
+            "target": "KOR"
+        },
+        {
+            "weight": 67.5932296944225,
+            "source": "CHN",
+            "target": "LTU"
+        },
+        {
+            "weight": 1463.6248089789567,
+            "source": "CHN",
+            "target": "LUX"
+        },
+        {
+            "weight": 36.750255461175435,
+            "source": "CHN",
+            "target": "LVA"
+        },
+        {
+            "weight": 4276.666818217163,
+            "source": "CHN",
+            "target": "MEX"
+        },
+        {
+            "weight": 30.066670268903085,
+            "source": "CHN",
+            "target": "MLT"
+        },
+        {
+            "weight": 3119.7772860867017,
+            "source": "CHN",
+            "target": "NLD"
+        },
+        {
+            "weight": 542.1787447057536,
+            "source": "CHN",
+            "target": "NOR"
+        },
+        {
+            "weight": 750.6291349531808,
+            "source": "CHN",
+            "target": "POL"
+        },
+        {
+            "weight": 193.22676925701472,
+            "source": "CHN",
+            "target": "PRT"
+        },
+        {
+            "weight": 349.6719338615081,
+            "source": "CHN",
+            "target": "ROU"
+        },
+        {
+            "weight": 1463.6375507331754,
+            "source": "CHN",
+            "target": "RUS"
+        },
+        {
+            "weight": 109.86455751482514,
+            "source": "CHN",
+            "target": "SVK"
+        },
+        {
+            "weight": 84.35271066142613,
+            "source": "CHN",
+            "target": "SVN"
+        },
+        {
+            "weight": 1258.0302211683713,
+            "source": "CHN",
+            "target": "SWE"
+        },
+        {
+            "weight": 1529.273380125267,
+            "source": "CHN",
+            "target": "TUR"
+        },
+        {
+            "weight": 10148.048765811602,
+            "source": "CHN",
+            "target": "TWN"
+        },
+        {
+            "weight": 33711.816751949904,
+            "source": "CHN",
+            "target": "USA"
+        },
+        {
+            "weight": 116016.25647318838,
+            "source": "CHN",
+            "target": "ROW"
+        },
+        {
+            "weight": 51.468001753687474,
+            "source": "CYP",
+            "target": "CZE"
+        },
+        {
+            "weight": 182.04676385773172,
+            "source": "CYP",
+            "target": "DEU"
+        },
+        {
+            "weight": 25.74639351784603,
+            "source": "CYP",
+            "target": "DNK"
+        },
+        {
+            "weight": 13.813454025122066,
+            "source": "CYP",
+            "target": "ESP"
+        },
+        {
+            "weight": 44.61519281333477,
+            "source": "CYP",
+            "target": "EST"
+        },
+        {
+            "weight": 30.78449528238535,
+            "source": "CYP",
+            "target": "FIN"
+        },
+        {
+            "weight": 41.74525381415321,
+            "source": "CYP",
+            "target": "FRA"
+        },
+        {
+            "weight": 267.27003971331607,
+            "source": "CYP",
+            "target": "GBR"
+        },
+        {
+            "weight": 405.6156830073951,
+            "source": "CYP",
+            "target": "GRC"
+        },
+        {
+            "weight": 4.151966542189078,
+            "source": "CYP",
+            "target": "HRV"
+        },
+        {
+            "weight": 71.30766737943024,
+            "source": "CYP",
+            "target": "HUN"
+        },
+        {
+            "weight": 0.0980712680334255,
+            "source": "CYP",
+            "target": "IDN"
+        },
+        {
+            "weight": 1.1200187273535462,
+            "source": "CYP",
+            "target": "IND"
+        },
+        {
+            "weight": 15.54753188832283,
+            "source": "CYP",
+            "target": "IRL"
+        },
+        {
+            "weight": 127.39747736393059,
+            "source": "CYP",
+            "target": "ITA"
+        },
+        {
+            "weight": 4.828321685033375,
+            "source": "CYP",
+            "target": "JPN"
+        },
+        {
+            "weight": 0.4342345050723482,
+            "source": "CYP",
+            "target": "KOR"
+        },
+        {
+            "weight": 3.0706395293297164,
+            "source": "CYP",
+            "target": "LTU"
+        },
+        {
+            "weight": 9.814274142031653,
+            "source": "CYP",
+            "target": "LUX"
+        },
+        {
+            "weight": 11.298005438219773,
+            "source": "CYP",
+            "target": "LVA"
+        },
+        {
+            "weight": 0.04244751523412373,
+            "source": "CYP",
+            "target": "MEX"
+        },
+        {
+            "weight": 4.820974857840559,
+            "source": "CYP",
+            "target": "MLT"
+        },
+        {
+            "weight": 143.24068960849874,
+            "source": "CYP",
+            "target": "NLD"
+        },
+        {
+            "weight": 38.32204578612146,
+            "source": "CYP",
+            "target": "NOR"
+        },
+        {
+            "weight": 50.585693429534,
+            "source": "CYP",
+            "target": "POL"
+        },
+        {
+            "weight": 2.4213530050438306,
+            "source": "CYP",
+            "target": "PRT"
+        },
+        {
+            "weight": 19.24450559183736,
+            "source": "CYP",
+            "target": "ROU"
+        },
+        {
+            "weight": 54.30430852913528,
+            "source": "CYP",
+            "target": "RUS"
+        },
+        {
+            "weight": 22.021553801106556,
+            "source": "CYP",
+            "target": "SVK"
+        },
+        {
+            "weight": 14.355227963742953,
+            "source": "CYP",
+            "target": "SVN"
+        },
+        {
+            "weight": 71.29634199334643,
+            "source": "CYP",
+            "target": "SWE"
+        },
+        {
+            "weight": 0.9248875064252768,
+            "source": "CYP",
+            "target": "TUR"
+        },
+        {
+            "weight": 0.41608910559236906,
+            "source": "CYP",
+            "target": "TWN"
+        },
+        {
+            "weight": 1017.4519720913333,
+            "source": "CYP",
+            "target": "USA"
+        },
+        {
+            "weight": 1110.4451350473557,
+            "source": "CYP",
+            "target": "ROW"
+        },
+        {
+            "weight": 13593.781588346192,
+            "source": "CZE",
+            "target": "DEU"
+        },
+        {
+            "weight": 225.72355878979988,
+            "source": "CZE",
+            "target": "DNK"
+        },
+        {
+            "weight": 792.250006785456,
+            "source": "CZE",
+            "target": "ESP"
+        },
+        {
+            "weight": 41.471809575707546,
+            "source": "CZE",
+            "target": "EST"
+        },
+        {
+            "weight": 166.96591916782273,
+            "source": "CZE",
+            "target": "FIN"
+        },
+        {
+            "weight": 1953.2671971011468,
+            "source": "CZE",
+            "target": "FRA"
+        },
+        {
+            "weight": 1417.1571138874187,
+            "source": "CZE",
+            "target": "GBR"
+        },
+        {
+            "weight": 89.84486182408176,
+            "source": "CZE",
+            "target": "GRC"
+        },
+        {
+            "weight": 257.3564766387082,
+            "source": "CZE",
+            "target": "HRV"
+        },
+        {
+            "weight": 1249.1982276376186,
+            "source": "CZE",
+            "target": "HUN"
+        },
+        {
+            "weight": 25.508835581268958,
+            "source": "CZE",
+            "target": "IDN"
+        },
+        {
+            "weight": 199.83573795591403,
+            "source": "CZE",
+            "target": "IND"
+        },
+        {
+            "weight": 206.35995571741813,
+            "source": "CZE",
+            "target": "IRL"
+        },
+        {
+            "weight": 1594.7052201415872,
+            "source": "CZE",
+            "target": "ITA"
+        },
+        {
+            "weight": 176.28912190731143,
+            "source": "CZE",
+            "target": "JPN"
+        },
+        {
+            "weight": 72.33285935046314,
+            "source": "CZE",
+            "target": "KOR"
+        },
+        {
+            "weight": 71.00333970575544,
+            "source": "CZE",
+            "target": "LTU"
+        },
+        {
+            "weight": 281.51031011087014,
+            "source": "CZE",
+            "target": "LUX"
+        },
+        {
+            "weight": 70.98159365959846,
+            "source": "CZE",
+            "target": "LVA"
+        },
+        {
+            "weight": 122.07783971154059,
+            "source": "CZE",
+            "target": "MEX"
+        },
+        {
+            "weight": 1.8676916250504731,
+            "source": "CZE",
+            "target": "MLT"
+        },
+        {
+            "weight": 772.4912510772151,
+            "source": "CZE",
+            "target": "NLD"
+        },
+        {
+            "weight": 264.27881317509616,
+            "source": "CZE",
+            "target": "NOR"
+        },
+        {
+            "weight": 2107.124914817761,
+            "source": "CZE",
+            "target": "POL"
+        },
+        {
+            "weight": 100.38641683741558,
+            "source": "CZE",
+            "target": "PRT"
+        },
+        {
+            "weight": 340.76230916242775,
+            "source": "CZE",
+            "target": "ROU"
+        },
+        {
+            "weight": 583.0984002445747,
+            "source": "CZE",
+            "target": "RUS"
+        },
+        {
+            "weight": 2759.901940389226,
+            "source": "CZE",
+            "target": "SVK"
+        },
+        {
+            "weight": 284.3614398958311,
+            "source": "CZE",
+            "target": "SVN"
+        },
+        {
+            "weight": 510.52524268782344,
+            "source": "CZE",
+            "target": "SWE"
+        },
+        {
+            "weight": 407.2345636812198,
+            "source": "CZE",
+            "target": "TUR"
+        },
+        {
+            "weight": 23.033602779778647,
+            "source": "CZE",
+            "target": "TWN"
+        },
+        {
+            "weight": 1021.9608537466668,
+            "source": "CZE",
+            "target": "USA"
+        },
+        {
+            "weight": 3135.433907266391,
+            "source": "CZE",
+            "target": "ROW"
+        },
+        {
+            "weight": 8665.124638811576,
+            "source": "DEU",
+            "target": "DNK"
+        },
+        {
+            "weight": 22661.930705725088,
+            "source": "DEU",
+            "target": "ESP"
+        },
+        {
+            "weight": 379.89411719992415,
+            "source": "DEU",
+            "target": "EST"
+        },
+        {
+            "weight": 5574.436431792736,
+            "source": "DEU",
+            "target": "FIN"
+        },
+        {
+            "weight": 55155.24168808218,
+            "source": "DEU",
+            "target": "FRA"
+        },
+        {
+            "weight": 34522.812669631516,
+            "source": "DEU",
+            "target": "GBR"
+        },
+        {
+            "weight": 2420.792862150873,
+            "source": "DEU",
+            "target": "GRC"
+        },
+        {
+            "weight": 1410.0705406731754,
+            "source": "DEU",
+            "target": "HRV"
+        },
+        {
+            "weight": 11615.364880952939,
+            "source": "DEU",
+            "target": "HUN"
+        },
+        {
+            "weight": 1041.9827505160288,
+            "source": "DEU",
+            "target": "IDN"
+        },
+        {
+            "weight": 5831.448732799267,
+            "source": "DEU",
+            "target": "IND"
+        },
+        {
+            "weight": 4784.734617891485,
+            "source": "DEU",
+            "target": "IRL"
+        },
+        {
+            "weight": 33919.5140575392,
+            "source": "DEU",
+            "target": "ITA"
+        },
+        {
+            "weight": 9487.041965373384,
+            "source": "DEU",
+            "target": "JPN"
+        },
+        {
+            "weight": 4958.633957761605,
+            "source": "DEU",
+            "target": "KOR"
+        },
+        {
+            "weight": 563.1873110286194,
+            "source": "DEU",
+            "target": "LTU"
+        },
+        {
+            "weight": 3115.9209351127,
+            "source": "DEU",
+            "target": "LUX"
+        },
+        {
+            "weight": 361.48108136584204,
+            "source": "DEU",
+            "target": "LVA"
+        },
+        {
+            "weight": 6046.885305417108,
+            "source": "DEU",
+            "target": "MEX"
+        },
+        {
+            "weight": 228.3712483212463,
+            "source": "DEU",
+            "target": "MLT"
+        },
+        {
+            "weight": 23242.733496993,
+            "source": "DEU",
+            "target": "NLD"
+        },
+        {
+            "weight": 3468.1860274917103,
+            "source": "DEU",
+            "target": "NOR"
+        },
+        {
+            "weight": 15059.601885480342,
+            "source": "DEU",
+            "target": "POL"
+        },
+        {
+            "weight": 4383.869910116801,
+            "source": "DEU",
+            "target": "PRT"
+        },
+        {
+            "weight": 2336.3765547979465,
+            "source": "DEU",
+            "target": "ROU"
+        },
+        {
+            "weight": 7966.292442509687,
+            "source": "DEU",
+            "target": "RUS"
+        },
+        {
+            "weight": 4375.961238918504,
+            "source": "DEU",
+            "target": "SVK"
+        },
+        {
+            "weight": 1723.3160046876212,
+            "source": "DEU",
+            "target": "SVN"
+        },
+        {
+            "weight": 12470.240048889716,
+            "source": "DEU",
+            "target": "SWE"
+        },
+        {
+            "weight": 8432.394462014243,
+            "source": "DEU",
+            "target": "TUR"
+        },
+        {
+            "weight": 4050.115061561101,
+            "source": "DEU",
+            "target": "TWN"
+        },
+        {
+            "weight": 39287.502096235454,
+            "source": "DEU",
+            "target": "USA"
+        },
+        {
+            "weight": 75264.66586541485,
+            "source": "DEU",
+            "target": "ROW"
+        },
+        {
+            "weight": 973.4140911057492,
+            "source": "DNK",
+            "target": "ESP"
+        },
+        {
+            "weight": 77.4210390318391,
+            "source": "DNK",
+            "target": "EST"
+        },
+        {
+            "weight": 1305.776027067154,
+            "source": "DNK",
+            "target": "FIN"
+        },
+        {
+            "weight": 2229.797144382452,
+            "source": "DNK",
+            "target": "FRA"
+        },
+        {
+            "weight": 3867.4980151598493,
+            "source": "DNK",
+            "target": "GBR"
+        },
+        {
+            "weight": 211.91986170716797,
+            "source": "DNK",
+            "target": "GRC"
+        },
+        {
+            "weight": 54.42233573916543,
+            "source": "DNK",
+            "target": "HRV"
+        },
+        {
+            "weight": 212.72772513264667,
+            "source": "DNK",
+            "target": "HUN"
+        },
+        {
+            "weight": 106.44544471476284,
+            "source": "DNK",
+            "target": "IDN"
+        },
+        {
+            "weight": 630.2067235360996,
+            "source": "DNK",
+            "target": "IND"
+        },
+        {
+            "weight": 505.7307137695116,
+            "source": "DNK",
+            "target": "IRL"
+        },
+        {
+            "weight": 1085.4911779532704,
+            "source": "DNK",
+            "target": "ITA"
+        },
+        {
+            "weight": 1358.8486138079568,
+            "source": "DNK",
+            "target": "JPN"
+        },
+        {
+            "weight": 231.52677938226338,
+            "source": "DNK",
+            "target": "KOR"
+        },
+        {
+            "weight": 119.25698817224031,
+            "source": "DNK",
+            "target": "LTU"
+        },
+        {
+            "weight": 42.34333917309135,
+            "source": "DNK",
+            "target": "LUX"
+        },
+        {
+            "weight": 86.6593993498407,
+            "source": "DNK",
+            "target": "LVA"
+        },
+        {
+            "weight": 193.8543053147012,
+            "source": "DNK",
+            "target": "MEX"
+        },
+        {
+            "weight": 10.525732954812998,
+            "source": "DNK",
+            "target": "MLT"
+        },
+        {
+            "weight": 1883.688526338964,
+            "source": "DNK",
+            "target": "NLD"
+        },
+        {
+            "weight": 2419.1335027845444,
+            "source": "DNK",
+            "target": "NOR"
+        },
+        {
+            "weight": 655.5436227972962,
+            "source": "DNK",
+            "target": "POL"
+        },
+        {
+            "weight": 133.95500383852178,
+            "source": "DNK",
+            "target": "PRT"
+        },
+        {
+            "weight": 49.79002858734519,
+            "source": "DNK",
+            "target": "ROU"
+        },
+        {
+            "weight": 315.0269487398171,
+            "source": "DNK",
+            "target": "RUS"
+        },
+        {
+            "weight": 49.833210500854214,
+            "source": "DNK",
+            "target": "SVK"
+        },
+        {
+            "weight": 39.695564274182345,
+            "source": "DNK",
+            "target": "SVN"
+        },
+        {
+            "weight": 6578.871738783606,
+            "source": "DNK",
+            "target": "SWE"
+        },
+        {
+            "weight": 249.1725611135781,
+            "source": "DNK",
+            "target": "TUR"
+        },
+        {
+            "weight": 132.37043376865614,
+            "source": "DNK",
+            "target": "TWN"
+        },
+        {
+            "weight": 2372.7904607214496,
+            "source": "DNK",
+            "target": "USA"
+        },
+        {
+            "weight": 16237.743380852451,
+            "source": "DNK",
+            "target": "ROW"
+        },
+        {
+            "weight": 51.579699555394505,
+            "source": "ESP",
+            "target": "EST"
+        },
+        {
+            "weight": 470.23178833173904,
+            "source": "ESP",
+            "target": "FIN"
+        },
+        {
+            "weight": 19148.01993361854,
+            "source": "ESP",
+            "target": "FRA"
+        },
+        {
+            "weight": 13962.3117843065,
+            "source": "ESP",
+            "target": "GBR"
+        },
+        {
+            "weight": 786.7503175332092,
+            "source": "ESP",
+            "target": "GRC"
+        },
+        {
+            "weight": 95.3598002897842,
+            "source": "ESP",
+            "target": "HRV"
+        },
+        {
+            "weight": 683.6525710052956,
+            "source": "ESP",
+            "target": "HUN"
+        },
+        {
+            "weight": 171.84318884098167,
+            "source": "ESP",
+            "target": "IDN"
+        },
+        {
+            "weight": 684.8201026099388,
+            "source": "ESP",
+            "target": "IND"
+        },
+        {
+            "weight": 1886.1667691476068,
+            "source": "ESP",
+            "target": "IRL"
+        },
+        {
+            "weight": 8847.55489694167,
+            "source": "ESP",
+            "target": "ITA"
+        },
+        {
+            "weight": 704.0654380662639,
+            "source": "ESP",
+            "target": "JPN"
+        },
+        {
+            "weight": 451.6779790125407,
+            "source": "ESP",
+            "target": "KOR"
+        },
+        {
+            "weight": 37.613509441073646,
+            "source": "ESP",
+            "target": "LTU"
+        },
+        {
+            "weight": 1053.1863805519145,
+            "source": "ESP",
+            "target": "LUX"
+        },
+        {
+            "weight": 29.654115523145176,
+            "source": "ESP",
+            "target": "LVA"
+        },
+        {
+            "weight": 2093.106271467253,
+            "source": "ESP",
+            "target": "MEX"
+        },
+        {
+            "weight": 80.94146834372323,
+            "source": "ESP",
+            "target": "MLT"
+        },
+        {
+            "weight": 3908.7347858714948,
+            "source": "ESP",
+            "target": "NLD"
+        },
+        {
+            "weight": 834.7349687064008,
+            "source": "ESP",
+            "target": "NOR"
+        },
+        {
+            "weight": 1271.4812712531054,
+            "source": "ESP",
+            "target": "POL"
+        },
+        {
+            "weight": 8954.533489599404,
+            "source": "ESP",
+            "target": "PRT"
+        },
+        {
+            "weight": 340.90811960462423,
+            "source": "ESP",
+            "target": "ROU"
+        },
+        {
+            "weight": 598.2506510721872,
+            "source": "ESP",
+            "target": "RUS"
+        },
+        {
+            "weight": 207.931066029251,
+            "source": "ESP",
+            "target": "SVK"
+        },
+        {
+            "weight": 204.23939213820668,
+            "source": "ESP",
+            "target": "SVN"
+        },
+        {
+            "weight": 2099.313487407252,
+            "source": "ESP",
+            "target": "SWE"
+        },
+        {
+            "weight": 1848.3701488750405,
+            "source": "ESP",
+            "target": "TUR"
+        },
+        {
+            "weight": 318.93588817939616,
+            "source": "ESP",
+            "target": "TWN"
+        },
+        {
+            "weight": 6324.626534423959,
+            "source": "ESP",
+            "target": "USA"
+        },
+        {
+            "weight": 25401.50837648995,
+            "source": "ESP",
+            "target": "ROW"
+        },
+        {
+            "weight": 648.3155664960498,
+            "source": "EST",
+            "target": "FIN"
+        },
+        {
+            "weight": 72.90127259992977,
+            "source": "EST",
+            "target": "FRA"
+        },
+        {
+            "weight": 214.03252721826908,
+            "source": "EST",
+            "target": "GBR"
+        },
+        {
+            "weight": 8.61186545864201,
+            "source": "EST",
+            "target": "GRC"
+        },
+        {
+            "weight": 4.118930052319294,
+            "source": "EST",
+            "target": "HRV"
+        },
+        {
+            "weight": 30.567274915223642,
+            "source": "EST",
+            "target": "HUN"
+        },
+        {
+            "weight": 0.4762777150405691,
+            "source": "EST",
+            "target": "IDN"
+        },
+        {
+            "weight": 1.2261697623743173,
+            "source": "EST",
+            "target": "IND"
+        },
+        {
+            "weight": 41.20229730402795,
+            "source": "EST",
+            "target": "IRL"
+        },
+        {
+            "weight": 41.479389120413906,
+            "source": "EST",
+            "target": "ITA"
+        },
+        {
+            "weight": 19.126209431695155,
+            "source": "EST",
+            "target": "JPN"
+        },
+        {
+            "weight": 10.960739874008283,
+            "source": "EST",
+            "target": "KOR"
+        },
+        {
+            "weight": 82.35776305652028,
+            "source": "EST",
+            "target": "LTU"
+        },
+        {
+            "weight": 1.0092237444348195,
+            "source": "EST",
+            "target": "LUX"
+        },
+        {
+            "weight": 186.81753171994225,
+            "source": "EST",
+            "target": "LVA"
+        },
+        {
+            "weight": 2.913722648539148,
+            "source": "EST",
+            "target": "MEX"
+        },
+        {
+            "weight": 0.9705971058554991,
+            "source": "EST",
+            "target": "MLT"
+        },
+        {
+            "weight": 76.88909299183624,
+            "source": "EST",
+            "target": "NLD"
+        },
+        {
+            "weight": 156.3504547570568,
+            "source": "EST",
+            "target": "NOR"
+        },
+        {
+            "weight": 52.292825609230654,
+            "source": "EST",
+            "target": "POL"
+        },
+        {
+            "weight": 17.227705594175738,
+            "source": "EST",
+            "target": "PRT"
+        },
+        {
+            "weight": 2.1290331780423606,
+            "source": "EST",
+            "target": "ROU"
+        },
+        {
+            "weight": 191.7664848612252,
+            "source": "EST",
+            "target": "RUS"
+        },
+        {
+            "weight": 4.579258530048836,
+            "source": "EST",
+            "target": "SVK"
+        },
+        {
+            "weight": 1.6241447798358313,
+            "source": "EST",
+            "target": "SVN"
+        },
+        {
+            "weight": 434.30023317750334,
+            "source": "EST",
+            "target": "SWE"
+        },
+        {
+            "weight": 8.433247869214156,
+            "source": "EST",
+            "target": "TUR"
+        },
+        {
+            "weight": 5.799151987745841,
+            "source": "EST",
+            "target": "TWN"
+        },
+        {
+            "weight": 95.73048330781882,
+            "source": "EST",
+            "target": "USA"
+        },
+        {
+            "weight": 684.7191638599588,
+            "source": "EST",
+            "target": "ROW"
+        },
+        {
+            "weight": 2047.7458026358224,
+            "source": "FIN",
+            "target": "FRA"
+        },
+        {
+            "weight": 3423.417180983169,
+            "source": "FIN",
+            "target": "GBR"
+        },
+        {
+            "weight": 246.27128594018208,
+            "source": "FIN",
+            "target": "GRC"
+        },
+        {
+            "weight": 28.45279402553623,
+            "source": "FIN",
+            "target": "HRV"
+        },
+        {
+            "weight": 516.9131457414062,
+            "source": "FIN",
+            "target": "HUN"
+        },
+        {
+            "weight": 91.00811645040834,
+            "source": "FIN",
+            "target": "IDN"
+        },
+        {
+            "weight": 364.8130160417748,
+            "source": "FIN",
+            "target": "IND"
+        },
+        {
+            "weight": 568.6297598594083,
+            "source": "FIN",
+            "target": "IRL"
+        },
+        {
+            "weight": 1396.346021759618,
+            "source": "FIN",
+            "target": "ITA"
+        },
+        {
+            "weight": 1180.0061760715562,
+            "source": "FIN",
+            "target": "JPN"
+        },
+        {
+            "weight": 280.28166030162083,
+            "source": "FIN",
+            "target": "KOR"
+        },
+        {
+            "weight": 118.67442260822008,
+            "source": "FIN",
+            "target": "LTU"
+        },
+        {
+            "weight": 64.52350417829743,
+            "source": "FIN",
+            "target": "LUX"
+        },
+        {
+            "weight": 160.67725527559472,
+            "source": "FIN",
+            "target": "LVA"
+        },
+        {
+            "weight": 178.4494355086279,
+            "source": "FIN",
+            "target": "MEX"
+        },
+        {
+            "weight": 12.625825859501331,
+            "source": "FIN",
+            "target": "MLT"
+        },
+        {
+            "weight": 2203.156284102933,
+            "source": "FIN",
+            "target": "NLD"
+        },
+        {
+            "weight": 1115.5170057304906,
+            "source": "FIN",
+            "target": "NOR"
+        },
+        {
+            "weight": 778.1370717570364,
+            "source": "FIN",
+            "target": "POL"
+        },
+        {
+            "weight": 191.99822184205743,
+            "source": "FIN",
+            "target": "PRT"
+        },
+        {
+            "weight": 49.609375582635316,
+            "source": "FIN",
+            "target": "ROU"
+        },
+        {
+            "weight": 1808.4342542295349,
+            "source": "FIN",
+            "target": "RUS"
+        },
+        {
+            "weight": 61.555914919305756,
+            "source": "FIN",
+            "target": "SVK"
+        },
+        {
+            "weight": 32.40960244961892,
+            "source": "FIN",
+            "target": "SVN"
+        },
+        {
+            "weight": 5562.602786103997,
+            "source": "FIN",
+            "target": "SWE"
+        },
+        {
+            "weight": 357.9832093348884,
+            "source": "FIN",
+            "target": "TUR"
+        },
+        {
+            "weight": 267.45142007640976,
+            "source": "FIN",
+            "target": "TWN"
+        },
+        {
+            "weight": 3764.5670836666463,
+            "source": "FIN",
+            "target": "USA"
+        },
+        {
+            "weight": 5846.058672288715,
+            "source": "FIN",
+            "target": "ROW"
+        },
+        {
+            "weight": 22230.161579270927,
+            "source": "FRA",
+            "target": "GBR"
+        },
+        {
+            "weight": 1583.420069438066,
+            "source": "FRA",
+            "target": "GRC"
+        },
+        {
+            "weight": 258.6865293357032,
+            "source": "FRA",
+            "target": "HRV"
+        },
+        {
+            "weight": 1746.10635004172,
+            "source": "FRA",
+            "target": "HUN"
+        },
+        {
+            "weight": 442.78942133677117,
+            "source": "FRA",
+            "target": "IDN"
+        },
+        {
+            "weight": 2459.509776608107,
+            "source": "FRA",
+            "target": "IND"
+        },
+        {
+            "weight": 3312.9092444045673,
+            "source": "FRA",
+            "target": "IRL"
+        },
+        {
+            "weight": 24082.06510674625,
+            "source": "FRA",
+            "target": "ITA"
+        },
+        {
+            "weight": 3792.575530030424,
+            "source": "FRA",
+            "target": "JPN"
+        },
+        {
+            "weight": 2083.1408554672203,
+            "source": "FRA",
+            "target": "KOR"
+        },
+        {
+            "weight": 108.36237610176931,
+            "source": "FRA",
+            "target": "LTU"
+        },
+        {
+            "weight": 1772.4604502807465,
+            "source": "FRA",
+            "target": "LUX"
+        },
+        {
+            "weight": 66.70643408695196,
+            "source": "FRA",
+            "target": "LVA"
+        },
+        {
+            "weight": 1956.279482194032,
+            "source": "FRA",
+            "target": "MEX"
+        },
+        {
+            "weight": 348.9289694469931,
+            "source": "FRA",
+            "target": "MLT"
+        },
+        {
+            "weight": 8946.592713149568,
+            "source": "FRA",
+            "target": "NLD"
+        },
+        {
+            "weight": 1108.7840769922848,
+            "source": "FRA",
+            "target": "NOR"
+        },
+        {
+            "weight": 3193.6712659107784,
+            "source": "FRA",
+            "target": "POL"
+        },
+        {
+            "weight": 2975.059099961421,
+            "source": "FRA",
+            "target": "PRT"
+        },
+        {
+            "weight": 1028.7267295757786,
+            "source": "FRA",
+            "target": "ROU"
+        },
+        {
+            "weight": 1593.4391857836515,
+            "source": "FRA",
+            "target": "RUS"
+        },
+        {
+            "weight": 467.7452116976967,
+            "source": "FRA",
+            "target": "SVK"
+        },
+        {
+            "weight": 932.8806553972479,
+            "source": "FRA",
+            "target": "SVN"
+        },
+        {
+            "weight": 3881.5227802220256,
+            "source": "FRA",
+            "target": "SWE"
+        },
+        {
+            "weight": 3884.658861803404,
+            "source": "FRA",
+            "target": "TUR"
+        },
+        {
+            "weight": 1455.3139763849747,
+            "source": "FRA",
+            "target": "TWN"
+        },
+        {
+            "weight": 20520.25938322656,
+            "source": "FRA",
+            "target": "USA"
+        },
+        {
+            "weight": 49018.25278254983,
+            "source": "FRA",
+            "target": "ROW"
+        },
+        {
+            "weight": 1603.0238867143075,
+            "source": "GBR",
+            "target": "GRC"
+        },
+        {
+            "weight": 246.4092463751213,
+            "source": "GBR",
+            "target": "HRV"
+        },
+        {
+            "weight": 1795.0551674693813,
+            "source": "GBR",
+            "target": "HUN"
+        },
+        {
+            "weight": 451.6191369208036,
+            "source": "GBR",
+            "target": "IDN"
+        },
+        {
+            "weight": 5243.986368555683,
+            "source": "GBR",
+            "target": "IND"
+        },
+        {
+            "weight": 17795.250713122707,
+            "source": "GBR",
+            "target": "IRL"
+        },
+        {
+            "weight": 13513.429562256768,
+            "source": "GBR",
+            "target": "ITA"
+        },
+        {
+            "weight": 6542.1785632494175,
+            "source": "GBR",
+            "target": "JPN"
+        },
+        {
+            "weight": 3208.391604497781,
+            "source": "GBR",
+            "target": "KOR"
+        },
+        {
+            "weight": 107.1506416210175,
+            "source": "GBR",
+            "target": "LTU"
+        },
+        {
+            "weight": 6669.375267671797,
+            "source": "GBR",
+            "target": "LUX"
+        },
+        {
+            "weight": 111.9730645551559,
+            "source": "GBR",
+            "target": "LVA"
+        },
+        {
+            "weight": 1412.0703760374715,
+            "source": "GBR",
+            "target": "MEX"
+        },
+        {
+            "weight": 354.0551487966245,
+            "source": "GBR",
+            "target": "MLT"
+        },
+        {
+            "weight": 13532.977972114373,
+            "source": "GBR",
+            "target": "NLD"
+        },
+        {
+            "weight": 3603.986966475897,
+            "source": "GBR",
+            "target": "NOR"
+        },
+        {
+            "weight": 2241.8639097111522,
+            "source": "GBR",
+            "target": "POL"
+        },
+        {
+            "weight": 2084.9177104862993,
+            "source": "GBR",
+            "target": "PRT"
+        },
+        {
+            "weight": 525.5542835384272,
+            "source": "GBR",
+            "target": "ROU"
+        },
+        {
+            "weight": 1531.8691025895016,
+            "source": "GBR",
+            "target": "RUS"
+        },
+        {
+            "weight": 345.32413241394136,
+            "source": "GBR",
+            "target": "SVK"
+        },
+        {
+            "weight": 190.06745379133045,
+            "source": "GBR",
+            "target": "SVN"
+        },
+        {
+            "weight": 6913.437718740883,
+            "source": "GBR",
+            "target": "SWE"
+        },
+        {
+            "weight": 2504.46216447258,
+            "source": "GBR",
+            "target": "TUR"
+        },
+        {
+            "weight": 1151.2256802103907,
+            "source": "GBR",
+            "target": "TWN"
+        },
+        {
+            "weight": 37481.606975162234,
+            "source": "GBR",
+            "target": "USA"
+        },
+        {
+            "weight": 84558.74441500698,
+            "source": "GBR",
+            "target": "ROW"
+        },
+        {
+            "weight": 40.220170813616576,
+            "source": "GRC",
+            "target": "HRV"
+        },
+        {
+            "weight": 38.008879610594576,
+            "source": "GRC",
+            "target": "HUN"
+        },
+        {
+            "weight": 30.534606664255357,
+            "source": "GRC",
+            "target": "IDN"
+        },
+        {
+            "weight": 92.06616499498959,
+            "source": "GRC",
+            "target": "IND"
+        },
+        {
+            "weight": 116.13244709085652,
+            "source": "GRC",
+            "target": "IRL"
+        },
+        {
+            "weight": 933.27299008624,
+            "source": "GRC",
+            "target": "ITA"
+        },
+        {
+            "weight": 330.72480212430736,
+            "source": "GRC",
+            "target": "JPN"
+        },
+        {
+            "weight": 118.74735560067286,
+            "source": "GRC",
+            "target": "KOR"
+        },
+        {
+            "weight": 2.7089721435491176,
+            "source": "GRC",
+            "target": "LTU"
+        },
+        {
+            "weight": 28.040096922079968,
+            "source": "GRC",
+            "target": "LUX"
+        },
+        {
+            "weight": 2.205666133130055,
+            "source": "GRC",
+            "target": "LVA"
+        },
+        {
+            "weight": 24.018796700543827,
+            "source": "GRC",
+            "target": "MEX"
+        },
+        {
+            "weight": 28.530450217567918,
+            "source": "GRC",
+            "target": "MLT"
+        },
+        {
+            "weight": 226.9289352609948,
+            "source": "GRC",
+            "target": "NLD"
+        },
+        {
+            "weight": 47.590699538322134,
+            "source": "GRC",
+            "target": "NOR"
+        },
+        {
+            "weight": 67.43940750969757,
+            "source": "GRC",
+            "target": "POL"
+        },
+        {
+            "weight": 53.18179006852513,
+            "source": "GRC",
+            "target": "PRT"
+        },
+        {
+            "weight": 319.7078961544928,
+            "source": "GRC",
+            "target": "ROU"
+        },
+        {
+            "weight": 109.94747564896946,
+            "source": "GRC",
+            "target": "RUS"
+        },
+        {
+            "weight": 27.921344773189226,
+            "source": "GRC",
+            "target": "SVK"
+        },
+        {
+            "weight": 42.003637263951575,
+            "source": "GRC",
+            "target": "SVN"
+        },
+        {
+            "weight": 219.62832760863157,
+            "source": "GRC",
+            "target": "SWE"
+        },
+        {
+            "weight": 693.3459059539308,
+            "source": "GRC",
+            "target": "TUR"
+        },
+        {
+            "weight": 25.06473410489481,
+            "source": "GRC",
+            "target": "TWN"
+        },
+        {
+            "weight": 929.199597445218,
+            "source": "GRC",
+            "target": "USA"
+        },
+        {
+            "weight": 13584.899690025346,
+            "source": "GRC",
+            "target": "ROW"
+        },
+        {
+            "weight": 169.98869329146018,
+            "source": "HRV",
+            "target": "HUN"
+        },
+        {
+            "weight": 3.0443275601926967,
+            "source": "HRV",
+            "target": "IDN"
+        },
+        {
+            "weight": 8.944547073982983,
+            "source": "HRV",
+            "target": "IND"
+        },
+        {
+            "weight": 59.103946040931255,
+            "source": "HRV",
+            "target": "IRL"
+        },
+        {
+            "weight": 1151.1905051065844,
+            "source": "HRV",
+            "target": "ITA"
+        },
+        {
+            "weight": 10.041321909584877,
+            "source": "HRV",
+            "target": "JPN"
+        },
+        {
+            "weight": 1.095194502381282,
+            "source": "HRV",
+            "target": "KOR"
+        },
+        {
+            "weight": 4.253042448308996,
+            "source": "HRV",
+            "target": "LTU"
+        },
+        {
+            "weight": 5.504951450140782,
+            "source": "HRV",
+            "target": "LUX"
+        },
+        {
+            "weight": 3.3513049869347835,
+            "source": "HRV",
+            "target": "LVA"
+        },
+        {
+            "weight": 8.130867598733415,
+            "source": "HRV",
+            "target": "MEX"
+        },
+        {
+            "weight": 16.133593485026374,
+            "source": "HRV",
+            "target": "MLT"
+        },
+        {
+            "weight": 136.3377137447578,
+            "source": "HRV",
+            "target": "NLD"
+        },
+        {
+            "weight": 119.27833741169808,
+            "source": "HRV",
+            "target": "NOR"
+        },
+        {
+            "weight": 58.49670548541558,
+            "source": "HRV",
+            "target": "POL"
+        },
+        {
+            "weight": 7.3003120145712375,
+            "source": "HRV",
+            "target": "PRT"
+        },
+        {
+            "weight": 21.33819821606512,
+            "source": "HRV",
+            "target": "ROU"
+        },
+        {
+            "weight": 26.660850535839938,
+            "source": "HRV",
+            "target": "RUS"
+        },
+        {
+            "weight": 28.109337861253447,
+            "source": "HRV",
+            "target": "SVK"
+        },
+        {
+            "weight": 654.9224084511483,
+            "source": "HRV",
+            "target": "SVN"
+        },
+        {
+            "weight": 130.6468892649479,
+            "source": "HRV",
+            "target": "SWE"
+        },
+        {
+            "weight": 77.14276944102843,
+            "source": "HRV",
+            "target": "TUR"
+        },
+        {
+            "weight": 0.7392782665370348,
+            "source": "HRV",
+            "target": "TWN"
+        },
+        {
+            "weight": 272.72303259308205,
+            "source": "HRV",
+            "target": "USA"
+        },
+        {
+            "weight": 3572.948290157422,
+            "source": "HRV",
+            "target": "ROW"
+        },
+        {
+            "weight": 7.129602600650184,
+            "source": "HUN",
+            "target": "IDN"
+        },
+        {
+            "weight": 24.8875133355503,
+            "source": "HUN",
+            "target": "IND"
+        },
+        {
+            "weight": 144.53022513032028,
+            "source": "HUN",
+            "target": "IRL"
+        },
+        {
+            "weight": 1540.2530769720909,
+            "source": "HUN",
+            "target": "ITA"
+        },
+        {
+            "weight": 219.25225855704144,
+            "source": "HUN",
+            "target": "JPN"
+        },
+        {
+            "weight": 125.5593997786356,
+            "source": "HUN",
+            "target": "KOR"
+        },
+        {
+            "weight": 36.40641003398286,
+            "source": "HUN",
+            "target": "LTU"
+        },
+        {
+            "weight": 16.162018306423946,
+            "source": "HUN",
+            "target": "LUX"
+        },
+        {
+            "weight": 22.44106860225482,
+            "source": "HUN",
+            "target": "LVA"
+        },
+        {
+            "weight": 133.57625142512737,
+            "source": "HUN",
+            "target": "MEX"
+        },
+        {
+            "weight": 2.6167077663046987,
+            "source": "HUN",
+            "target": "MLT"
+        },
+        {
+            "weight": 718.9731280170568,
+            "source": "HUN",
+            "target": "NLD"
+        },
+        {
+            "weight": 73.52784463915428,
+            "source": "HUN",
+            "target": "NOR"
+        },
+        {
+            "weight": 957.1145587355182,
+            "source": "HUN",
+            "target": "POL"
+        },
+        {
+            "weight": 130.86017930965596,
+            "source": "HUN",
+            "target": "PRT"
+        },
+        {
+            "weight": 1091.729939856297,
+            "source": "HUN",
+            "target": "ROU"
+        },
+        {
+            "weight": 257.4778631619473,
+            "source": "HUN",
+            "target": "RUS"
+        },
+        {
+            "weight": 632.0278998387114,
+            "source": "HUN",
+            "target": "SVK"
+        },
+        {
+            "weight": 267.32854735996466,
+            "source": "HUN",
+            "target": "SVN"
+        },
+        {
+            "weight": 378.1278482587989,
+            "source": "HUN",
+            "target": "SWE"
+        },
+        {
+            "weight": 320.33700423531786,
+            "source": "HUN",
+            "target": "TUR"
+        },
+        {
+            "weight": 69.46394840816632,
+            "source": "HUN",
+            "target": "TWN"
+        },
+        {
+            "weight": 1206.8155422777106,
+            "source": "HUN",
+            "target": "USA"
+        },
+        {
+            "weight": 3066.218710670129,
+            "source": "HUN",
+            "target": "ROW"
+        },
+        {
+            "weight": 2645.7717405602657,
+            "source": "IDN",
+            "target": "IND"
+        },
+        {
+            "weight": 32.85887258674816,
+            "source": "IDN",
+            "target": "IRL"
+        },
+        {
+            "weight": 907.4757754932773,
+            "source": "IDN",
+            "target": "ITA"
+        },
+        {
+            "weight": 14208.62301358261,
+            "source": "IDN",
+            "target": "JPN"
+        },
+        {
+            "weight": 5094.38853969914,
+            "source": "IDN",
+            "target": "KOR"
+        },
+        {
+            "weight": 2.5030181752214107,
+            "source": "IDN",
+            "target": "LTU"
+        },
+        {
+            "weight": 7.329466302143147,
+            "source": "IDN",
+            "target": "LUX"
+        },
+        {
+            "weight": 1.7104030839734436,
+            "source": "IDN",
+            "target": "LVA"
+        },
+        {
+            "weight": 275.1059624486321,
+            "source": "IDN",
+            "target": "MEX"
+        },
+        {
+            "weight": 0.5354792383178507,
+            "source": "IDN",
+            "target": "MLT"
+        },
+        {
+            "weight": 896.1666448986874,
+            "source": "IDN",
+            "target": "NLD"
+        },
+        {
+            "weight": 41.100603392141316,
+            "source": "IDN",
+            "target": "NOR"
+        },
+        {
+            "weight": 58.83769291566327,
+            "source": "IDN",
+            "target": "POL"
+        },
+        {
+            "weight": 46.467486066140545,
+            "source": "IDN",
+            "target": "PRT"
+        },
+        {
+            "weight": 16.354614252243863,
+            "source": "IDN",
+            "target": "ROU"
+        },
+        {
+            "weight": 79.48717616712996,
+            "source": "IDN",
+            "target": "RUS"
+        },
+        {
+            "weight": 11.108256794631329,
+            "source": "IDN",
+            "target": "SVK"
+        },
+        {
+            "weight": 24.330831785690155,
+            "source": "IDN",
+            "target": "SVN"
+        },
+        {
+            "weight": 62.80687240171359,
+            "source": "IDN",
+            "target": "SWE"
+        },
+        {
+            "weight": 329.8380449274585,
+            "source": "IDN",
+            "target": "TUR"
+        },
+        {
+            "weight": 3058.3511801257814,
+            "source": "IDN",
+            "target": "TWN"
+        },
+        {
+            "weight": 3020.44734213198,
+            "source": "IDN",
+            "target": "USA"
+        },
+        {
+            "weight": 17927.88887070201,
+            "source": "IDN",
+            "target": "ROW"
+        },
+        {
+            "weight": 67.42039072781604,
+            "source": "IND",
+            "target": "IRL"
+        },
+        {
+            "weight": 1464.0273933194567,
+            "source": "IND",
+            "target": "ITA"
+        },
+        {
+            "weight": 1635.0843988536972,
+            "source": "IND",
+            "target": "JPN"
+        },
+        {
+            "weight": 1385.5332575936511,
+            "source": "IND",
+            "target": "KOR"
+        },
+        {
+            "weight": 6.175287859080717,
+            "source": "IND",
+            "target": "LTU"
+        },
+        {
+            "weight": 14.465062486471927,
+            "source": "IND",
+            "target": "LUX"
+        },
+        {
+            "weight": 3.7235700125775866,
+            "source": "IND",
+            "target": "LVA"
+        },
+        {
+            "weight": 481.47409827438486,
+            "source": "IND",
+            "target": "MEX"
+        },
+        {
+            "weight": 9.954335285133519,
+            "source": "IND",
+            "target": "MLT"
+        },
+        {
+            "weight": 794.6336793971257,
+            "source": "IND",
+            "target": "NLD"
+        },
+        {
+            "weight": 48.51001731522407,
+            "source": "IND",
+            "target": "NOR"
+        },
+        {
+            "weight": 202.60266654848667,
+            "source": "IND",
+            "target": "POL"
+        },
+        {
+            "weight": 141.3762652662958,
+            "source": "IND",
+            "target": "PRT"
+        },
+        {
+            "weight": 109.90675949099298,
+            "source": "IND",
+            "target": "ROU"
+        },
+        {
+            "weight": 317.0030188681053,
+            "source": "IND",
+            "target": "RUS"
+        },
+        {
+            "weight": 13.574718999994705,
+            "source": "IND",
+            "target": "SVK"
+        },
+        {
+            "weight": 40.383465945470704,
+            "source": "IND",
+            "target": "SVN"
+        },
+        {
+            "weight": 341.58290806517056,
+            "source": "IND",
+            "target": "SWE"
+        },
+        {
+            "weight": 810.6231851325251,
+            "source": "IND",
+            "target": "TUR"
+        },
+        {
+            "weight": 722.6886568277283,
+            "source": "IND",
+            "target": "TWN"
+        },
+        {
+            "weight": 7415.787263889421,
+            "source": "IND",
+            "target": "USA"
+        },
+        {
+            "weight": 39308.93384516873,
+            "source": "IND",
+            "target": "ROW"
+        },
+        {
+            "weight": 3410.124112252769,
+            "source": "IRL",
+            "target": "ITA"
+        },
+        {
+            "weight": 1641.3308951691674,
+            "source": "IRL",
+            "target": "JPN"
+        },
+        {
+            "weight": 794.9470017849609,
+            "source": "IRL",
+            "target": "KOR"
+        },
+        {
+            "weight": 5.794361378353679,
+            "source": "IRL",
+            "target": "LTU"
+        },
+        {
+            "weight": 937.316626288571,
+            "source": "IRL",
+            "target": "LUX"
+        },
+        {
+            "weight": 32.135429563511146,
+            "source": "IRL",
+            "target": "LVA"
+        },
+        {
+            "weight": 414.98338786908823,
+            "source": "IRL",
+            "target": "MEX"
+        },
+        {
+            "weight": 24.96698771716086,
+            "source": "IRL",
+            "target": "MLT"
+        },
+        {
+            "weight": 1748.5343241430091,
+            "source": "IRL",
+            "target": "NLD"
+        },
+        {
+            "weight": 571.3870911031978,
+            "source": "IRL",
+            "target": "NOR"
+        },
+        {
+            "weight": 293.89310775678837,
+            "source": "IRL",
+            "target": "POL"
+        },
+        {
+            "weight": 382.6720572658124,
+            "source": "IRL",
+            "target": "PRT"
+        },
+        {
+            "weight": 67.84690400823295,
+            "source": "IRL",
+            "target": "ROU"
+        },
+        {
+            "weight": 207.19020463559548,
+            "source": "IRL",
+            "target": "RUS"
+        },
+        {
+            "weight": 62.70845956260703,
+            "source": "IRL",
+            "target": "SVK"
+        },
+        {
+            "weight": 46.807493852238125,
+            "source": "IRL",
+            "target": "SVN"
+        },
+        {
+            "weight": 1187.111949092813,
+            "source": "IRL",
+            "target": "SWE"
+        },
+        {
+            "weight": 193.5993185267363,
+            "source": "IRL",
+            "target": "TUR"
+        },
+        {
+            "weight": 421.30310710271,
+            "source": "IRL",
+            "target": "TWN"
+        },
+        {
+            "weight": 14936.778277807864,
+            "source": "IRL",
+            "target": "USA"
+        },
+        {
+            "weight": 18623.440560666702,
+            "source": "IRL",
+            "target": "ROW"
+        },
+        {
+            "weight": 2644.9378840669783,
+            "source": "ITA",
+            "target": "JPN"
+        },
+        {
+            "weight": 1574.7723359223685,
+            "source": "ITA",
+            "target": "KOR"
+        },
+        {
+            "weight": 101.1830991924483,
+            "source": "ITA",
+            "target": "LTU"
+        },
+        {
+            "weight": 3117.871838364776,
+            "source": "ITA",
+            "target": "LUX"
+        },
+        {
+            "weight": 108.37290885724843,
+            "source": "ITA",
+            "target": "LVA"
+        },
+        {
+            "weight": 1713.9078097208405,
+            "source": "ITA",
+            "target": "MEX"
+        },
+        {
+            "weight": 603.9403390567587,
+            "source": "ITA",
+            "target": "MLT"
+        },
+        {
+            "weight": 4531.692753315646,
+            "source": "ITA",
+            "target": "NLD"
+        },
+        {
+            "weight": 731.7770154422783,
+            "source": "ITA",
+            "target": "NOR"
+        },
+        {
+            "weight": 4035.5649154789253,
+            "source": "ITA",
+            "target": "POL"
+        },
+        {
+            "weight": 1905.9792669256055,
+            "source": "ITA",
+            "target": "PRT"
+        },
+        {
+            "weight": 2041.6806993652515,
+            "source": "ITA",
+            "target": "ROU"
+        },
+        {
+            "weight": 1808.408551175797,
+            "source": "ITA",
+            "target": "RUS"
+        },
+        {
+            "weight": 669.5229960833267,
+            "source": "ITA",
+            "target": "SVK"
+        },
+        {
+            "weight": 1423.0554365387436,
+            "source": "ITA",
+            "target": "SVN"
+        },
+        {
+            "weight": 2189.0235747224688,
+            "source": "ITA",
+            "target": "SWE"
+        },
+        {
+            "weight": 4634.174003519835,
+            "source": "ITA",
+            "target": "TUR"
+        },
+        {
+            "weight": 904.5398651352136,
+            "source": "ITA",
+            "target": "TWN"
+        },
+        {
+            "weight": 15077.65114099776,
+            "source": "ITA",
+            "target": "USA"
+        },
+        {
+            "weight": 38949.38755937877,
+            "source": "ITA",
+            "target": "ROW"
+        },
+        {
+            "weight": 28116.950962353774,
+            "source": "JPN",
+            "target": "KOR"
+        },
+        {
+            "weight": 10.964526753789997,
+            "source": "JPN",
+            "target": "LTU"
+        },
+        {
+            "weight": 213.4412529178635,
+            "source": "JPN",
+            "target": "LUX"
+        },
+        {
+            "weight": 4.447198528847322,
+            "source": "JPN",
+            "target": "LVA"
+        },
+        {
+            "weight": 6017.662456361788,
+            "source": "JPN",
+            "target": "MEX"
+        },
+        {
+            "weight": 20.45925849568628,
+            "source": "JPN",
+            "target": "MLT"
+        },
+        {
+            "weight": 3475.089086734329,
+            "source": "JPN",
+            "target": "NLD"
+        },
+        {
+            "weight": 689.6791869529436,
+            "source": "JPN",
+            "target": "NOR"
+        },
+        {
+            "weight": 499.8421126624732,
+            "source": "JPN",
+            "target": "POL"
+        },
+        {
+            "weight": 284.06628197894884,
+            "source": "JPN",
+            "target": "PRT"
+        },
+        {
+            "weight": 77.48800423917466,
+            "source": "JPN",
+            "target": "ROU"
+        },
+        {
+            "weight": 1043.6591931664095,
+            "source": "JPN",
+            "target": "RUS"
+        },
+        {
+            "weight": 163.10018125937862,
+            "source": "JPN",
+            "target": "SVK"
+        },
+        {
+            "weight": 28.364076865987517,
+            "source": "JPN",
+            "target": "SVN"
+        },
+        {
+            "weight": 867.0115675085652,
+            "source": "JPN",
+            "target": "SWE"
+        },
+        {
+            "weight": 911.3095792982724,
+            "source": "JPN",
+            "target": "TUR"
+        },
+        {
+            "weight": 28231.53861288041,
+            "source": "JPN",
+            "target": "TWN"
+        },
+        {
+            "weight": 44981.602275177334,
+            "source": "JPN",
+            "target": "USA"
+        },
+        {
+            "weight": 121326.53651111267,
+            "source": "JPN",
+            "target": "ROW"
+        },
+        {
+            "weight": 17.971783002501247,
+            "source": "KOR",
+            "target": "LTU"
+        },
+        {
+            "weight": 14.335995717177068,
+            "source": "KOR",
+            "target": "LUX"
+        },
+        {
+            "weight": 6.13897821036717,
+            "source": "KOR",
+            "target": "LVA"
+        },
+        {
+            "weight": 3580.1953052082417,
+            "source": "KOR",
+            "target": "MEX"
+        },
+        {
+            "weight": 24.245258893182932,
+            "source": "KOR",
+            "target": "MLT"
+        },
+        {
+            "weight": 475.30257885356775,
+            "source": "KOR",
+            "target": "NLD"
+        },
+        {
+            "weight": 89.0763144440673,
+            "source": "KOR",
+            "target": "NOR"
+        },
+        {
+            "weight": 391.97196811747716,
+            "source": "KOR",
+            "target": "POL"
+        },
+        {
+            "weight": 82.0852605528607,
+            "source": "KOR",
+            "target": "PRT"
+        },
+        {
+            "weight": 89.26952318433554,
+            "source": "KOR",
+            "target": "ROU"
+        },
+        {
+            "weight": 2252.3022354120144,
+            "source": "KOR",
+            "target": "RUS"
+        },
+        {
+            "weight": 270.28425275053263,
+            "source": "KOR",
+            "target": "SVK"
+        },
+        {
+            "weight": 18.399582534884612,
+            "source": "KOR",
+            "target": "SVN"
+        },
+        {
+            "weight": 279.77080641567704,
+            "source": "KOR",
+            "target": "SWE"
+        },
+        {
+            "weight": 1239.0222461990247,
+            "source": "KOR",
+            "target": "TUR"
+        },
+        {
+            "weight": 9680.848235267933,
+            "source": "KOR",
+            "target": "TWN"
+        },
+        {
+            "weight": 16449.62722491607,
+            "source": "KOR",
+            "target": "USA"
+        },
+        {
+            "weight": 39461.17091143073,
+            "source": "KOR",
+            "target": "ROW"
+        },
+        {
+            "weight": 2.328560670541018,
+            "source": "LTU",
+            "target": "LUX"
+        },
+        {
+            "weight": 393.14318855786985,
+            "source": "LTU",
+            "target": "LVA"
+        },
+        {
+            "weight": 1.860713619625316,
+            "source": "LTU",
+            "target": "MEX"
+        },
+        {
+            "weight": 5.064600304678144,
+            "source": "LTU",
+            "target": "MLT"
+        },
+        {
+            "weight": 154.20757174830675,
+            "source": "LTU",
+            "target": "NLD"
+        },
+        {
+            "weight": 94.50906172238436,
+            "source": "LTU",
+            "target": "NOR"
+        },
+        {
+            "weight": 295.40771869421064,
+            "source": "LTU",
+            "target": "POL"
+        },
+        {
+            "weight": 21.250318781227048,
+            "source": "LTU",
+            "target": "PRT"
+        },
+        {
+            "weight": 3.3127769852505153,
+            "source": "LTU",
+            "target": "ROU"
+        },
+        {
+            "weight": 380.07227900334817,
+            "source": "LTU",
+            "target": "RUS"
+        },
+        {
+            "weight": 9.307403231025578,
+            "source": "LTU",
+            "target": "SVK"
+        },
+        {
+            "weight": 5.952113361398838,
+            "source": "LTU",
+            "target": "SVN"
+        },
+        {
+            "weight": 248.19462458702893,
+            "source": "LTU",
+            "target": "SWE"
+        },
+        {
+            "weight": 92.06089552692524,
+            "source": "LTU",
+            "target": "TUR"
+        },
+        {
+            "weight": 1.0347437157867023,
+            "source": "LTU",
+            "target": "TWN"
+        },
+        {
+            "weight": 276.36147236829845,
+            "source": "LTU",
+            "target": "USA"
+        },
+        {
+            "weight": 1690.3151907912156,
+            "source": "LTU",
+            "target": "ROW"
+        },
+        {
+            "weight": 10.718406330040091,
+            "source": "LUX",
+            "target": "LVA"
+        },
+        {
+            "weight": 34.107542564250124,
+            "source": "LUX",
+            "target": "MEX"
+        },
+        {
+            "weight": 32.664897062653985,
+            "source": "LUX",
+            "target": "MLT"
+        },
+        {
+            "weight": 2853.6564599811204,
+            "source": "LUX",
+            "target": "NLD"
+        },
+        {
+            "weight": 135.34112919515385,
+            "source": "LUX",
+            "target": "NOR"
+        },
+        {
+            "weight": 181.63089222860188,
+            "source": "LUX",
+            "target": "POL"
+        },
+        {
+            "weight": 121.6321094372258,
+            "source": "LUX",
+            "target": "PRT"
+        },
+        {
+            "weight": 17.850867641964328,
+            "source": "LUX",
+            "target": "ROU"
+        },
+        {
+            "weight": 37.12537721839031,
+            "source": "LUX",
+            "target": "RUS"
+        },
+        {
+            "weight": 24.373518296866354,
+            "source": "LUX",
+            "target": "SVK"
+        },
+        {
+            "weight": 20.812953118684707,
+            "source": "LUX",
+            "target": "SVN"
+        },
+        {
+            "weight": 533.2071327914981,
+            "source": "LUX",
+            "target": "SWE"
+        },
+        {
+            "weight": 72.65432219076206,
+            "source": "LUX",
+            "target": "TUR"
+        },
+        {
+            "weight": 37.73939224464336,
+            "source": "LUX",
+            "target": "TWN"
+        },
+        {
+            "weight": 197.04283398896828,
+            "source": "LUX",
+            "target": "USA"
+        },
+        {
+            "weight": 6232.858957491119,
+            "source": "LUX",
+            "target": "ROW"
+        },
+        {
+            "weight": 0.1378536898137647,
+            "source": "LVA",
+            "target": "MEX"
+        },
+        {
+            "weight": 3.138339447776904,
+            "source": "LVA",
+            "target": "MLT"
+        },
+        {
+            "weight": 60.29729352846749,
+            "source": "LVA",
+            "target": "NLD"
+        },
+        {
+            "weight": 71.98208710018906,
+            "source": "LVA",
+            "target": "NOR"
+        },
+        {
+            "weight": 66.94383705906206,
+            "source": "LVA",
+            "target": "POL"
+        },
+        {
+            "weight": 13.775448301552675,
+            "source": "LVA",
+            "target": "PRT"
+        },
+        {
+            "weight": 1.3247021806695924,
+            "source": "LVA",
+            "target": "ROU"
+        },
+        {
+            "weight": 99.19079824790826,
+            "source": "LVA",
+            "target": "RUS"
+        },
+        {
+            "weight": 10.704833131849881,
+            "source": "LVA",
+            "target": "SVK"
+        },
+        {
+            "weight": 6.767167184925589,
+            "source": "LVA",
+            "target": "SVN"
+        },
+        {
+            "weight": 259.7116663981428,
+            "source": "LVA",
+            "target": "SWE"
+        },
+        {
+            "weight": 1.010891297532047,
+            "source": "LVA",
+            "target": "TUR"
+        },
+        {
+            "weight": 2.5742282932666942,
+            "source": "LVA",
+            "target": "TWN"
+        },
+        {
+            "weight": 114.48242563878551,
+            "source": "LVA",
+            "target": "USA"
+        },
+        {
+            "weight": 779.363238877149,
+            "source": "LVA",
+            "target": "ROW"
+        },
+        {
+            "weight": 0.3439863385155493,
+            "source": "MEX",
+            "target": "MLT"
+        },
+        {
+            "weight": 109.16495999996548,
+            "source": "MEX",
+            "target": "NLD"
+        },
+        {
+            "weight": 26.46101056504732,
+            "source": "MEX",
+            "target": "NOR"
+        },
+        {
+            "weight": 34.83663985588289,
+            "source": "MEX",
+            "target": "POL"
+        },
+        {
+            "weight": 185.15613368567568,
+            "source": "MEX",
+            "target": "PRT"
+        },
+        {
+            "weight": 9.778222220555337,
+            "source": "MEX",
+            "target": "ROU"
+        },
+        {
+            "weight": 60.72788156306571,
+            "source": "MEX",
+            "target": "RUS"
+        },
+        {
+            "weight": 7.666470158620165,
+            "source": "MEX",
+            "target": "SVK"
+        },
+        {
+            "weight": 3.0798519409641782,
+            "source": "MEX",
+            "target": "SVN"
+        },
+        {
+            "weight": 30.8184349583973,
+            "source": "MEX",
+            "target": "SWE"
+        },
+        {
+            "weight": 68.35184693614676,
+            "source": "MEX",
+            "target": "TUR"
+        },
+        {
+            "weight": 80.37449134105194,
+            "source": "MEX",
+            "target": "TWN"
+        },
+        {
+            "weight": 70280.59267520359,
+            "source": "MEX",
+            "target": "USA"
+        },
+        {
+            "weight": 6381.191156813416,
+            "source": "MEX",
+            "target": "ROW"
+        },
+        {
+            "weight": 120.20125855907301,
+            "source": "MLT",
+            "target": "NLD"
+        },
+        {
+            "weight": 52.9280050670489,
+            "source": "MLT",
+            "target": "NOR"
+        },
+        {
+            "weight": 13.425063434948635,
+            "source": "MLT",
+            "target": "POL"
+        },
+        {
+            "weight": 4.3313128245767905,
+            "source": "MLT",
+            "target": "PRT"
+        },
+        {
+            "weight": 1.7988801571698128,
+            "source": "MLT",
+            "target": "ROU"
+        },
+        {
+            "weight": 3.8887437016004367,
+            "source": "MLT",
+            "target": "RUS"
+        },
+        {
+            "weight": 10.223105591943783,
+            "source": "MLT",
+            "target": "SVK"
+        },
+        {
+            "weight": 3.246187663146905,
+            "source": "MLT",
+            "target": "SVN"
+        },
+        {
+            "weight": 8.894200512776088,
+            "source": "MLT",
+            "target": "SWE"
+        },
+        {
+            "weight": 244.25762424698428,
+            "source": "MLT",
+            "target": "TUR"
+        },
+        {
+            "weight": 2.033511922592945,
+            "source": "MLT",
+            "target": "TWN"
+        },
+        {
+            "weight": 147.85581229205584,
+            "source": "MLT",
+            "target": "USA"
+        },
+        {
+            "weight": 614.2342396046912,
+            "source": "MLT",
+            "target": "ROW"
+        },
+        {
+            "weight": 1816.250000436309,
+            "source": "NLD",
+            "target": "NOR"
+        },
+        {
+            "weight": 2110.7458483463975,
+            "source": "NLD",
+            "target": "POL"
+        },
+        {
+            "weight": 1124.6453711853826,
+            "source": "NLD",
+            "target": "PRT"
+        },
+        {
+            "weight": 395.7377747092492,
+            "source": "NLD",
+            "target": "ROU"
+        },
+        {
+            "weight": 1063.8559631588796,
+            "source": "NLD",
+            "target": "RUS"
+        },
+        {
+            "weight": 269.04108381636553,
+            "source": "NLD",
+            "target": "SVK"
+        },
+        {
+            "weight": 248.4608406868585,
+            "source": "NLD",
+            "target": "SVN"
+        },
+        {
+            "weight": 3547.4336569132597,
+            "source": "NLD",
+            "target": "SWE"
+        },
+        {
+            "weight": 1400.2246374658853,
+            "source": "NLD",
+            "target": "TUR"
+        },
+        {
+            "weight": 1575.2664049553132,
+            "source": "NLD",
+            "target": "TWN"
+        },
+        {
+            "weight": 12055.914660354241,
+            "source": "NLD",
+            "target": "USA"
+        },
+        {
+            "weight": 36622.783690156364,
+            "source": "NLD",
+            "target": "ROW"
+        },
+        {
+            "weight": 448.64042254600304,
+            "source": "NOR",
+            "target": "POL"
+        },
+        {
+            "weight": 484.3055791536438,
+            "source": "NOR",
+            "target": "PRT"
+        },
+        {
+            "weight": 36.7769557003757,
+            "source": "NOR",
+            "target": "ROU"
+        },
+        {
+            "weight": 90.4473121360187,
+            "source": "NOR",
+            "target": "RUS"
+        },
+        {
+            "weight": 24.591774225110807,
+            "source": "NOR",
+            "target": "SVK"
+        },
+        {
+            "weight": 9.527463958392547,
+            "source": "NOR",
+            "target": "SVN"
+        },
+        {
+            "weight": 6060.216698399366,
+            "source": "NOR",
+            "target": "SWE"
+        },
+        {
+            "weight": 369.43158387093865,
+            "source": "NOR",
+            "target": "TUR"
+        },
+        {
+            "weight": 202.45071042364484,
+            "source": "NOR",
+            "target": "TWN"
+        },
+        {
+            "weight": 7162.567894162675,
+            "source": "NOR",
+            "target": "USA"
+        },
+        {
+            "weight": 6759.069729704073,
+            "source": "NOR",
+            "target": "ROW"
+        },
+        {
+            "weight": 447.47330715329485,
+            "source": "POL",
+            "target": "PRT"
+        },
+        {
+            "weight": 586.3594151828627,
+            "source": "POL",
+            "target": "ROU"
+        },
+        {
+            "weight": 1510.360568852596,
+            "source": "POL",
+            "target": "RUS"
+        },
+        {
+            "weight": 840.8718775867908,
+            "source": "POL",
+            "target": "SVK"
+        },
+        {
+            "weight": 180.63928299875963,
+            "source": "POL",
+            "target": "SVN"
+        },
+        {
+            "weight": 2005.4423610431336,
+            "source": "POL",
+            "target": "SWE"
+        },
+        {
+            "weight": 589.3093158947365,
+            "source": "POL",
+            "target": "TUR"
+        },
+        {
+            "weight": 81.82747583997634,
+            "source": "POL",
+            "target": "TWN"
+        },
+        {
+            "weight": 1333.0729866558686,
+            "source": "POL",
+            "target": "USA"
+        },
+        {
+            "weight": 6408.711979117232,
+            "source": "POL",
+            "target": "ROW"
+        },
+        {
+            "weight": 21.54910803418924,
+            "source": "PRT",
+            "target": "ROU"
+        },
+        {
+            "weight": 26.519523016714594,
+            "source": "PRT",
+            "target": "RUS"
+        },
+        {
+            "weight": 22.10362836110331,
+            "source": "PRT",
+            "target": "SVK"
+        },
+        {
+            "weight": 13.064127226100235,
+            "source": "PRT",
+            "target": "SVN"
+        },
+        {
+            "weight": 152.487290587507,
+            "source": "PRT",
+            "target": "SWE"
+        },
+        {
+            "weight": 127.46251677577429,
+            "source": "PRT",
+            "target": "TUR"
+        },
+        {
+            "weight": 91.9847791056114,
+            "source": "PRT",
+            "target": "TWN"
+        },
+        {
+            "weight": 1004.6886055669478,
+            "source": "PRT",
+            "target": "USA"
+        },
+        {
+            "weight": 5892.846465810479,
+            "source": "PRT",
+            "target": "ROW"
+        },
+        {
+            "weight": 69.09916254432726,
+            "source": "ROU",
+            "target": "RUS"
+        },
+        {
+            "weight": 45.854946992714964,
+            "source": "ROU",
+            "target": "SVK"
+        },
+        {
+            "weight": 72.32130568533174,
+            "source": "ROU",
+            "target": "SVN"
+        },
+        {
+            "weight": 32.17426966050956,
+            "source": "ROU",
+            "target": "SWE"
+        },
+        {
+            "weight": 1454.4117280059052,
+            "source": "ROU",
+            "target": "TUR"
+        },
+        {
+            "weight": 43.81840323851959,
+            "source": "ROU",
+            "target": "TWN"
+        },
+        {
+            "weight": 520.118472326473,
+            "source": "ROU",
+            "target": "USA"
+        },
+        {
+            "weight": 4449.736458812848,
+            "source": "ROU",
+            "target": "ROW"
+        },
+        {
+            "weight": 2677.2348239874264,
+            "source": "RUS",
+            "target": "SVK"
+        },
+        {
+            "weight": 134.84936835376772,
+            "source": "RUS",
+            "target": "SVN"
+        },
+        {
+            "weight": 1842.7541291120688,
+            "source": "RUS",
+            "target": "SWE"
+        },
+        {
+            "weight": 7012.6950985956455,
+            "source": "RUS",
+            "target": "TUR"
+        },
+        {
+            "weight": 1613.1172761656344,
+            "source": "RUS",
+            "target": "TWN"
+        },
+        {
+            "weight": 6388.237396883892,
+            "source": "RUS",
+            "target": "USA"
+        },
+        {
+            "weight": 38436.358774879285,
+            "source": "RUS",
+            "target": "ROW"
+        },
+        {
+            "weight": 173.26803633617592,
+            "source": "SVK",
+            "target": "SVN"
+        },
+        {
+            "weight": 146.9278047993113,
+            "source": "SVK",
+            "target": "SWE"
+        },
+        {
+            "weight": 176.82800275854515,
+            "source": "SVK",
+            "target": "TUR"
+        },
+        {
+            "weight": 8.895087740966282,
+            "source": "SVK",
+            "target": "TWN"
+        },
+        {
+            "weight": 184.07228523668587,
+            "source": "SVK",
+            "target": "USA"
+        },
+        {
+            "weight": 1459.8611963385642,
+            "source": "SVK",
+            "target": "ROW"
+        },
+        {
+            "weight": 72.88878247215962,
+            "source": "SVN",
+            "target": "SWE"
+        },
+        {
+            "weight": 85.14019053647444,
+            "source": "SVN",
+            "target": "TUR"
+        },
+        {
+            "weight": 8.794037007238881,
+            "source": "SVN",
+            "target": "TWN"
+        },
+        {
+            "weight": 221.1179594577834,
+            "source": "SVN",
+            "target": "USA"
+        },
+        {
+            "weight": 1542.88327403182,
+            "source": "SVN",
+            "target": "ROW"
+        },
+        {
+            "weight": 589.3261384758205,
+            "source": "SWE",
+            "target": "TUR"
+        },
+        {
+            "weight": 547.1624246926602,
+            "source": "SWE",
+            "target": "TWN"
+        },
+        {
+            "weight": 7636.871823481351,
+            "source": "SWE",
+            "target": "USA"
+        },
+        {
+            "weight": 13571.66700231931,
+            "source": "SWE",
+            "target": "ROW"
+        },
+        {
+            "weight": 297.7814348923146,
+            "source": "TUR",
+            "target": "TWN"
+        },
+        {
+            "weight": 3873.0113189965855,
+            "source": "TUR",
+            "target": "USA"
+        },
+        {
+            "weight": 18351.107026268503,
+            "source": "TUR",
+            "target": "ROW"
+        },
+        {
+            "weight": 15500.101746394717,
+            "source": "TWN",
+            "target": "USA"
+        },
+        {
+            "weight": 44316.97301541497,
+            "source": "TWN",
+            "target": "ROW"
+        },
+        {
+            "weight": 171822.6735285858,
+            "source": "USA",
+            "target": "ROW"
+        }
+    ]
+}
