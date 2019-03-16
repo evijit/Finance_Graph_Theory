@@ -1,0 +1,166 @@
+# -*- coding: utf-8 -*-
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+import networkx as nx
+from indexGenerate import *
+
+def print_graph(failed_names):
+    color_map = []
+    for node in Graph_data:
+        if node in failed_names:
+            color_map.append('blue')
+            #print (node)
+        else :
+            color_map.append('red')
+    nx.draw(Graph_data, with_labels=True,node_color = color_map, node_size=[v * 1000 for v in node_sizes.values()])
+    plt.show()
+
+plt.rcParams['figure.figsize'] = [15, 15]
+
+Graph_data = nx.MultiDiGraph()
+cascade_result = pd.DataFrame()
+
+  
+thetas = np.arange(0.45,1.001,0.005)
+#Years = ['2000','2001','2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2014']
+Years = ['1','2']#,'3','4']
+
+# Creating 2d matrix 
+
+def create_matrix(pts, gdp, trade_pct):
+    a =  np.diag(np.ones(pts)) * gdp
+    b = (np.full((pts,pts),1) - np.diag(np.ones(pts))) * trade_pct * gdp
+    c = a+b
+    c[0,0]=100
+    return c
+
+def createDataFiles(n, gdp1, gdp2, index):
+    year1_data = create_matrix(n,gdp1,0.2)
+    year1 = pd.DataFrame(year1_data, index=index, columns=index)
+    year1.to_csv('DataRandom1.csv')
+    
+    year2_data = create_matrix(n,gdp2,0.2)
+    year2 = pd.DataFrame(year2_data, index=index, columns = index)
+    year2.to_csv('DataRandom2.csv')
+    
+   
+
+def FailureCheck(n):
+    for y in range(1,len(Years)):
+        #print(y)
+        Country_matrix2 = pd.read_csv('DataRandom' +Years[y] + '.csv')
+        Country_matrix1 = pd.read_csv('DataRandom' +Years[0] + '.csv')
+        Country_matrix1 = Country_matrix1.set_index('Unnamed: 0')
+        Country_matrix2 = Country_matrix2.set_index('Unnamed: 0')
+        Countries = list(Country_matrix1)
+        
+        gdp_1 = sum(np.matrix(Country_matrix1))
+        gdp_2 = sum(np.matrix(Country_matrix2))
+        normalizing_value = float(gdp_1[0,0])
+        
+        gdp_2_normalized = [x / normalizing_value for x in gdp_2]
+        gdp_1_normalized = [x / normalizing_value for x in gdp_1]
+        fraction_gdp_loss = (gdp_2-gdp_1)/gdp_2
+    
+        fraction_ownership = np.matrix(Country_matrix1)/gdp_1
+        C_hat = np.matrix(np.diag(np.diag(fraction_ownership)))
+        C_matrix = fraction_ownership - C_hat
+        A_matrix = np.dot(C_hat, np.linalg.inv((np.diag(np.ones(len(C_matrix))) - C_matrix)))
+        
+        p = np.matrix(gdp_1_normalized[0]).T
+        
+        theta_failled = []
+        tempo = 0
+        check = 0
+    
+        for theta in thetas:
+            v_threshold = theta*(np.dot(A_matrix, gdp_2_normalized[0].T))
+            
+            pcurrent = p
+        
+            all_failure_indicator = (np.full((1, n), False)).astype(int)
+    
+            node_size = list(np.array(np.dot(A_matrix, pcurrent)).T[0])
+        
+            node_sizes = {}
+            for i in range(len(node_size)):
+                node_sizes[Countries[i]] = node_size[i]
+            node_sizes
+        
+            for country in Countries:
+                Graph_data.add_node(country)
+        
+            for country in Countries:
+                for country2 in Countries:
+                    if country != country2:
+                        Graph_data.add_weighted_edges_from([(country, country2, Country_matrix1[country][country2])])
+                    
+            wave = 0
+            wave_failled = []
+            new_failed_names = []
+            
+            while (wave == 0) or (len(new_failed_names) != 0):
+                wave = wave + 1
+        
+                new_failure_indicator = (np.array((np.dot(A_matrix, pcurrent).T < v_threshold.T).astype(int)) * ((all_failure_indicator == 0))).T
+                all_failure_indicator = all_failure_indicator | new_failure_indicator.T
+                pcurrent = pcurrent - np.multiply(new_failure_indicator, v_threshold/2)
+                new_failed_countries = np.where(all_failure_indicator[0] == 1)[0]
+                a = np.where(new_failure_indicator.T[0] == 1)
+        
+                node_size = list(np.array(np.dot(A_matrix, pcurrent)).T[0])
+    
+                node_sizes = {}
+                for i in range(len(node_size)):
+                    node_sizes[Countries[i]] = node_size[i]
+        
+                failed_names = []
+        
+                for x in list(new_failed_countries):
+                    failed_names.append(Countries[x])
+         
+                new_failed_names = []
+        
+                for x in list(a[0]):
+                    new_failed_names.append(Countries[x])
+                if len(new_failed_names) != 0 and check == 0 and 'a' in new_failed_names:
+                	check = 1
+                	tempo = theta
+                wave_failled.append(new_failed_names)
+                
+            theta_failled.append(wave_failled)
+                
+        #cascade_result[Years[y]+n-2] = theta_failled
+        cascade_result[n] = theta_failled
+    cascade_result.index = thetas
+    return cascade_result, tempo
+#print_graph(Graph_data)
+
+
+noOfCountries = 20
+#pts = 100 
+#index = pd.read_csv('index.csv')
+gdp1 = 100
+gdp2 = 150
+Graph_plot = pd.DataFrame(index = range(2,noOfCountries), columns = range( 80,140, 20))
+
+for gdp2 in range( 90,200, 10):
+    Graph_vals = []
+    print(gdp2)
+    for n in range(2,noOfCountries):
+       # print(n)
+        index = createIndex(n)
+        #print(index)
+        createDataFiles(n, gdp1, gdp2, index)
+        CascadeResult,tempo = FailureCheck(n)
+        #print(n, tempo)
+        Graph_vals.append(tempo)
+
+#CascadeResult.to_csv('Res_moreGDP_moreTrade.csv')
+#print(Graph_vals)
+#Graph_plot = pd.Series(Graph_vals, index = range(2,noOfCountries))
+    Graph_plot[gdp2] = Graph_vals
+Graph_plot.to_csv('Plots_sameTrade.csv')
+#print(cascade_result)
+print("done")
